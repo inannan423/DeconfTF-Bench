@@ -1,0 +1,315 @@
+section,manuscript_text,manuscript_value,source_file,source_location,computed_value,abs_delta,status,note
+Abstract,266 strong-knockdown experiments,266.0,knocktf401_ranks_with_study_ids.csv,split_new==Dev n,266.0,0.0,MATCH,
+Abstract,170 studies,170.0,knocktf401_ranks_with_study_ids.csv,Dev study_id nunique,170.0,0.0,MATCH,
+Abstract,ULM Top-1 5.6%,5.6,knocktf401_ranks_with_study_ids.csv,Dev mean(r_m1_ulm==1)*100,5.6,0.0,MATCH,
+Abstract,VIPER Top-1 6.0%,6.0,knocktf401_ranks_with_study_ids.csv,Dev mean(r_m2b==1)*100,6.0,0.0,MATCH,
+Abstract,M9 Top-1 11.7%,11.7,knocktf401_ranks_with_study_ids.csv,Dev mean(r_m9==1)*100,11.7,0.0,MATCH,
+Abstract,ULM Top-5 10.9%,10.9,knocktf401_ranks_with_study_ids.csv,Dev mean(r_m1<=5)*100,10.9,0.0,MATCH,
+Abstract,VIPER Top-5 10.2%,10.2,knocktf401_ranks_with_study_ids.csv,Dev mean(r_m2b<=5)*100,10.2,0.0,MATCH,
+Abstract,M9 Top-5 21.1%,21.1,knocktf401_ranks_with_study_ids.csv,Dev mean(r_m9<=5)*100,21.1,0.0,MATCH,
+Abstract,holdout 64,64.0,knocktf401_ranks_with_study_ids.csv,split_new==Unseen n,64.0,0.0,MATCH,
+Abstract,52 unseen studies,52.0,knocktf401_ranks_with_study_ids.csv,Unseen study_id nunique,52.0,0.0,MATCH,
+Abstract,Unseen M9 vs ULM ~1.5 bits,1.5,study_level_stats_harmonised.csv,Unseen r_m1_ulm Log2Rank mean (rounded),1.515,0.014999999999999902,MATCH,
+Abstract,Holm p=0.002 vs ULM,0.002,study_level_stats_harmonised.csv,Unseen ULM Log2Rank p_clust_Holm12,0.0020998950052497373,9.98950052497373e-05,MATCH,manuscript 0.002 vs 0.0021
+Abstract,Holm p=0.009 vs VIPER,0.009,study_level_stats_harmonised.csv,Unseen VIPER Log2Rank p_clust_Holm12,0.009249537523123845,0.00024953752312384565,MATCH,
+Abstract,Unseen M9 Top-1 12.5%,12.5,knocktf401_ranks_with_study_ids.csv,Unseen mean(r_m9==1)*100,12.5,0.0,MATCH,
+Abstract,Unseen M9 vs M5 +0.31 bits,0.31,study_level_stats_harmonised.csv,Unseen M5 Log2Rank mean,0.31,0.0,MATCH,
+Abstract,Unseen M9 vs M5 p=0.14,0.14,study_level_stats_harmonised.csv,Unseen M5 Log2Rank p_clust,0.1391430428478576,0.0008569571521424013,MATCH,
+Abstract,K562 267 TFs,267.0,replogle2022_k562_gwps_ranks.csv,max_abs_blind>=0.5 n,267.0,0.0,MATCH,
+Abstract,RPE1 76 TFs,76.0,replogle2022_rpe1_ranks.csv,max_abs_blind>=0.5 n,76.0,0.0,MATCH,
+Abstract,K562 M9 vs M5 +0.003 bits,0.003,p0_2_external_validation_summary.csv,K562 primary M9_vs_M5 mean_dlog2rank_bits,0.0031,9.999999999999983e-05,MATCH,
+Abstract,K562 M9 vs M5 median -0.025,-0.025,p0_2_external_validation_summary.csv,median_dlog2rank_bits,-0.0245,0.0005000000000000004,MATCH,
+Abstract,K562 M9 vs M5 Wilcoxon p=0.10,0.1,p0_2_external_validation_summary.csv,p_wilcox,0.10468959762259963,0.004689597622599628,MATCH,
+Abstract,K562 M9 vs ULM +0.12 bits,0.12,p0_2_external_validation_summary.csv,mean_dlog2rank_bits,0.1154,0.004599999999999993,MATCH,
+Abstract,K562 M9 vs ULM p=0.97,0.97,p0_2_external_validation_summary.csv,p_wilcox,0.97253260841214,0.0025326084121399806,MATCH,
+Abstract,RPE1 M9 vs M5 -0.23 bits,-0.23,p0_2_external_validation_summary.csv,RPE1 M9_vs_M5 mean,-0.2341,0.0040999999999999925,MATCH,
+Abstract,RPE1 p=0.0044,0.0044,p0_2_external_validation_summary.csv,RPE1_normalized_z_Primary_MaxAbs0.5 M9_vs_M5_MultiModal_Static p_wilcox,0.004365239570151422,3.4760429848578606e-05,MATCH,
+Abstract,unfiltered K562 N=514,514.0,replogle2022_k562_gwps_ranks.csv,nrows,514.0,0.0,MATCH,
+Abstract,GEO 51 QC-pass,51.0,r2_geo_phase2_ranks.csv,nrows,51.0,0.0,MATCH,
+Abstract,GEO 45 studies,45.0,r2_geo_phase2_ranks.csv,study_id nunique,45.0,0.0,MATCH,
+Abstract,GEO M5 vs ULM +1.08 bits,1.08,r2_geo_phase2_holm.csv,m5 M5_vs_ULM_dlog2 mean,1.0778123634936994,0.0021876365063007164,MATCH,
+Abstract,GEO M5 vs ULM p_Holm=0.042,0.042,r2_geo_phase2_holm.csv,m5 M5_vs_ULM_dlog2 p_holm,0.04174791260436978,0.0002520873956302211,MATCH,
+Abstract,GEO M5 vs ULM p_Holm7=0.058,0.058,r2_geo_phase2_holm.csv,m7 M5_vs_ULM_dlog2 p_holm,0.058447077646117694,0.0004470776461176912,MATCH,
+Abstract,GEO M9 vs M5 -0.16 bits,-0.16,r2_geo_phase2_holm.csv,m5 M9_vs_M5 mean,-0.1561044291326155,0.0038955708673845124,MATCH,
+Abstract,GEO M9 vs M5 p_Holm=0.32,0.32,r2_geo_phase2_holm.csv,m5 M9_vs_M5 p_holm,0.3240337983100845,0.004033798310084491,MATCH,
+Abstract,GEO M9 vs ULM +0.92 bits,0.92,r2_geo_phase2_holm.csv,m5 M9_vs_ULM mean,0.9217079343610842,0.0017079343610841846,MATCH,
+Abstract,GEO M9 vs ULM p_Holm=0.20,0.2,r2_geo_phase2_holm.csv,m5 M9_vs_ULM p_holm,0.2023898805059747,0.0023898805059746897,MATCH,
+Abstract,GEO M10 vs M5 -0.07 bits,-0.07,r2_geo_phase2_holm.csv,m7 M10_vs_M5 mean,-0.06690888004584797,0.0030911199541520384,MATCH,
+Abstract,GEO M10 vs M5 p_Holm7=0.65,0.65,r2_geo_phase2_holm.csv,m7 M10_vs_M5 p_holm,0.648067596620169,0.001932403379831027,MATCH,
+Abstract,KD_moderate M9 vs M5 -0.91 bits n=6,-0.91,r2_geo_phase2_endpoints.csv,KD_moderate M9_vs_M5 mean,-0.9092429412353106,0.0007570587646894555,MATCH,
+Abstract,KD_moderate n=6,6.0,r2_geo_phase2_endpoints.csv,KD_moderate n,6.0,0.0,MATCH,
+Abstract,KD_moderate p=0.03,0.03,r2_geo_phase2_endpoints.csv,KD_moderate p_clustered,0.032448377581120944,0.0024483775811209446,MATCH,
+Results 3.1,M0 Dev Top-1 122/266 45.9%,45.9,knocktf401_ranks_with_study_ids.csv,Dev r_m0_self_logfc==1,45.9,0.0,MATCH,
+Results 3.1,M0 Unseen 8/64 12.5%,12.5,knocktf401_ranks_with_study_ids.csv,Unseen r_m0==1,12.5,0.0,MATCH,
+Results 3.2,M9 Dev Top-1 11.7%,11.7,knocktf401_ranks_with_study_ids.csv,same as abstract,11.7,0.0,MATCH,
+Results 3.2,LOSO M9 Top-1 26/266 9.8%,26.0,audit/r10_m9_loso_summary.json,top1_first_in_grid loso_top1,26.0,0.0,MATCH,
+Results 3.3,Unseen ULM Top-1 4.7%,4.7,knocktf401_ranks_with_study_ids.csv,Unseen r_m1==1,4.7,0.0,MATCH,
+Results 3.3,Unseen M9 Top-1 12.5%,12.5,knocktf401_ranks_with_study_ids.csv,Unseen r_m9==1,12.5,0.0,MATCH,
+Results 3.3,Unseen vs ULM Holm 0.0021,0.0021,study_level_stats_harmonised.csv,p_clust_Holm12,0.0020998950052497373,1.0499475026253327e-07,MATCH,
+Results 3.3,Unseen vs VIPER Holm 0.0093,0.0093,study_level_stats_harmonised.csv,p_clust_Holm12,0.009249537523123845,5.0462476876154266e-05,MATCH,
+Results 3.5,Dev recall-fail 142/235 60.4%,60.4,m9_failure_decomposition.csv,Dev_266 pct_recall_fail_of_failures,60.4,0.0,MATCH,
+Results 3.5,Dev in-pool paralog 66/93 71.0%,71.0,m9_failure_decomposition.csv,Dev_266 pct_cocomplex_of_in_pool,71.0,0.0,MATCH,
+Results 3.9,GEO ULM Top-1 0/51,0.0,r2_geo_phase2_ranks.csv,sum r_m1==1,0.0,0.0,MATCH,
+Results 3.9,GEO M5 Top-1 4/51,4.0,r2_geo_phase2_ranks.csv,sum r_m5==1,4.0,0.0,MATCH,
+Results 3.9,GEO M9 Top-1 5/51,5.0,r2_geo_phase2_ranks.csv,sum r_m9==1,5.0,0.0,MATCH,
+Results 3.9,GEO M10 Top-1 4/51,4.0,r2_geo_phase2_ranks.csv,sum r_m10==1,4.0,0.0,MATCH,
+Results 3.9,GEO ULM median rank 247,247.0,r2_geo_phase2_ranks.csv,median r_m1,247.0,0.0,MATCH,
+Results 3.9,GEO M5 median rank 123,123.0,r2_geo_phase2_ranks.csv,median r_m5,123.0,0.0,MATCH,
+Results 3.9,GEO M9 median rank 182,182.0,r2_geo_phase2_ranks.csv,median r_m9,182.0,0.0,MATCH,
+Results 3.9,GEO M10 median rank 152,152.0,r2_geo_phase2_ranks.csv,median r_m10,152.0,0.0,MATCH,
+Results 3.9,GEO perm p M9 vs ULM 0.051,0.051,r2_geo_phase2_holm.csv,m5 M9_vs_ULM p_raw,0.050597470126493675,0.0004025298735063215,MATCH,
+Results 3.9,GEO bootstrap CI lo 0.10,0.1,r7_forest_all_cohorts_summary.csv,GEO M9 vs ULM ci95_lo,0.09841673714149361,0.001583262858506393,MATCH,
+Results 3.9,GEO bootstrap CI hi 1.72,1.72,r7_forest_all_cohorts_summary.csv,GEO M9 vs ULM ci95_hi,1.718568638928239,0.0014313610717608949,MATCH,
+Results 3.8,K562 gate trigger 79.4% 212/267,79.4,r1c_gate_mechanism_audit.csv,K562 trigger_rate_pct,79.4,0.0,MATCH,
+Results 3.8,Unseen true-TF demoted 30.2% 16/53,30.2,r1c_gate_mechanism_audit.csv,Unseen pct_trig_true_tf_demoted,30.2,0.0,MATCH,
+Results 3.8,K562 true-TF demoted 72.2% 153/212,72.2,r1c_gate_mechanism_audit.csv,K562 pct_trig_true_tf_demoted,72.2,0.0,MATCH,
+Discussion outline,Dev risk-coverage 20% Top-1 28.3%,28.3,m9_risk_coverage.csv,Dev_266 coverage=0.2 m9_top1_pct,28.3,0.0,MATCH,
+Discussion outline,Dev risk-coverage 20% Top-5 41.5%,41.5,m9_risk_coverage.csv,Dev_266 coverage=0.2 m9_top5_pct,41.51,0.00999999999999801,MATCH,
+Methods 2.1,KnockTF 907 human experiments,907.0,knockTF_meta.csv,nrows,907.0,0.0,MATCH,
+Methods 2.1,cand_tfs 647,647.0,knocktf_precomputed_bundle.pkl,len(cand_tfs),647.0,0.0,MATCH,
+Methods 2.1,holdout N=135,135.0,holdout135_harmonised_ranks.csv,nrows,135.0,0.0,MATCH,
+Methods 2.1,combined 401,401.0,knocktf401_ranks_with_study_ids.csv,nrows,401.0,0.0,MATCH,
+Methods 2.2,masked TF symbols 1888,1888.0,supplement_masked_tfs_list_v2.csv,nrows of frozen union,1888.0,0.0,MATCH,
+Methods 2.2,1783 present in KnockTF matrix,1783.0,supplement_masked_tfs_list_v2.csv,in_knocktf_matrix==1,1783.0,0.0,MATCH,
+Methods 2.2,K562 mask present 779,779.0,supplement_masked_tfs_list_v2.csv,in_replogle_k562_matrix==1,779.0,0.0,MATCH,
+Methods 2.2,RPE1 mask present 754,754.0,supplement_masked_tfs_list_v2.csv,in_replogle_rpe1_matrix==1,754.0,0.0,MATCH,
+Methods 2.2,GEO mask present 1867,1867.0,supplement_masked_tfs_list_v2.csv,in_geo_matrix==1,1867.0,0.0,MATCH,
+Methods 2.2,legacy 864-row list,864.0,supplement_masked_tfs_list.csv,nrows superseded file,864.0,0.0,MATCH,not the frozen union
+Abstract,Unseen ULM Top-1 4.7%,4.7,knocktf401_ranks_with_study_ids.csv,Unseen r_m1==1,4.7,0.0,MATCH,
+Abstract,Unseen VIPER Top-1 6.2%,6.2,knocktf401_ranks_with_study_ids.csv,Unseen r_m2b==1,6.2,0.0,MATCH,
+Abstract,Unseen M9 Top-5 23.4%,23.4,knocktf401_ranks_with_study_ids.csv,Unseen r_m9<=5,23.4,0.0,MATCH,
+Abstract,Unseen ULM Top-5 9.4%,9.4,knocktf401_ranks_with_study_ids.csv,Unseen r_m1<=5,9.4,0.0,MATCH,
+Abstract,Unseen VIPER Top-5 14.1%,14.1,knocktf401_ranks_with_study_ids.csv,Unseen r_m2b<=5,14.1,0.0,MATCH,
+Abstract,K562 unfiltered M9 vs M5 -0.034 bits,-0.034,p0_2_external_validation_summary.csv,All_KD0.5 M9_vs_M5 mean,-0.0342,0.0001999999999999988,MATCH,
+Abstract,K562 All_KD0.5 p=1.8e-5,1.8e-05,p0_2_external_validation_summary.csv,p_wilcox,1.7875962063522266e-05,1.240379364777346e-07,MATCH,
+Abstract,K562 M9 vs ULM median -0.050,-0.05,p0_2_external_validation_summary.csv,median_dlog2rank_bits,-0.0496,0.0004000000000000045,MATCH,
+Abstract,KnockTF recall-fail low end ~59%,58.9,m9_failure_decomposition.csv,Unseen_64 pct_recall_fail_of_failures,58.9,0.0,MATCH,
+Abstract,KnockTF recall-fail high end 63%,63.0,m9_failure_decomposition.csv,Combined_401 pct_recall_fail_of_failures,63.0,0.0,MATCH,
+Abstract,K562 recall-fail 83.5%,83.5,p0_2_external_validation_summary.csv,1 - 85/514 recalled,83.5,0.0,MATCH,manuscript 83.5%; 85/514 in-pool from Results 3.8
+Abstract,in-pool paralog 65-71%,71.0,m9_failure_decomposition.csv,Dev 71.0 Unseen 65.2,71.0,0.0,MATCH,
+Results 3.9,GEO KD n=29,29.0,r2_geo_phase2_endpoints.csv,KD n,29.0,0.0,MATCH,
+Results 3.9,GEO KO n=19,19.0,r2_geo_phase2_endpoints.csv,KO n,19.0,0.0,MATCH,
+Results 3.9,GEO Degron n=3,3.0,r2_geo_phase2_endpoints.csv,Degron n,3.0,0.0,MATCH,
+Results 3.9,GEO Lambert n=40,40.0,r2_geo_phase2_endpoints.csv,Lambert2018 n,40.0,0.0,MATCH,
+Results 3.9,GEO average M5 vs ULM +1.10 p_Holm=0.029,0.029,r2_geo_phase2_holm_average.csv,m5 M5_vs_ULM p_holm,0.028998550072496375,1.4499275036265746e-06,MATCH,
+Results 3.8,Dev gate trigger 78.9% 210/266,78.9,r1c_gate_mechanism_audit.csv,Dev trigger_rate_pct,78.9,0.0,MATCH,
+Results 3.8,RPE1 gate trigger 93.4% 71/76,93.4,r1c_gate_mechanism_audit.csv,RPE1 trigger_rate_pct,93.4,0.0,MATCH,
+Results 3.8,K562 recalled 85/514 16.5%,16.5,replogle2022_k562_gwps_ranks.csv,All_KD0.5 in_recalled mean*100,16.5,0.0,MATCH,
+Methods 2.1,222 studies overall,222.0,knocktf401_ranks_with_study_ids.csv,study_id nunique,222.0,0.0,MATCH,
+Methods 2.1,Seen N=71,71.0,knocktf401_ranks_with_study_ids.csv,split_new==Seen n,71.0,0.0,MATCH,
+Methods 2.1,Seen 24 studies,24.0,knocktf401_ranks_with_study_ids.csv,Seen study_id nunique,24.0,0.0,MATCH,
+Methods 2.1,Unseen singleton studies 43,43.0,knocktf401_ranks_with_study_ids.csv,Unseen studies with 1 experiment,43.0,0.0,MATCH,
+Results 3.9,GEO 74 locked contrasts,74.0,r2_geo_contrasts.csv,INCLUDE_CONTRAST nrows,74.0,0.0,MATCH,
+Results 3.9,GEO 51/74 PASS,51.0,r2_geo_qc_pass.csv,qc_reason==PASS,51.0,0.0,MATCH,
+Results 3.9,GEO VIPER Top-5 2/51,2.0,r2_geo_phase2_ranks.csv,sum r_m2b<=5,2.0,0.0,MATCH,
+Results 3.9,GEO VIPER median 272,272.0,r2_geo_phase2_ranks.csv,median r_m2b,272.0,0.0,MATCH,
+Results 3.9,GEO ULM Top-5 1/51,1.0,r2_geo_phase2_ranks.csv,sum r_m1<=5,1.0,0.0,MATCH,
+Results 3.9,GEO M5 Top-5 7/51,7.0,r2_geo_phase2_ranks.csv,sum r_m5<=5,7.0,0.0,MATCH,
+Results 3.9,GEO M9 Top-5 6/51,6.0,r2_geo_phase2_ranks.csv,sum r_m9<=5,6.0,0.0,MATCH,
+Results 3.9,GEO M10 Top-5 7/51,7.0,r2_geo_phase2_ranks.csv,sum r_m10<=5,7.0,0.0,MATCH,
+Results 3.5,Dev Top-1 failures 235,235.0,m9_failure_decomposition.csv,Dev_266 n_failures,235.0,0.0,MATCH,
+Results 3.5,Unseen failures 56,56.0,m9_failure_decomposition.csv,Unseen_64 n_failures,56.0,0.0,MATCH,
+Results 3.5,Unseen recall-fail 33,33.0,m9_failure_decomposition.csv,Unseen_64 n_recall_fail,33.0,0.0,MATCH,
+Results 3.5,Unseen in-pool 23,23.0,m9_failure_decomposition.csv,Unseen_64 n_in_pool_fail,23.0,0.0,MATCH,
+Results 3.5,Unseen cocomplex 15 of 23 65.2%,65.2,m9_failure_decomposition.csv,Unseen pct_cocomplex_of_in_pool,65.2,0.0,MATCH,
+Results 3.5,Unseen in-pool top5 7/23,7.0,m9_failure_decomposition.csv,Unseen n_in_pool_in_top5,7.0,0.0,MATCH,
+Results 3.5,Combined failures 359,359.0,m9_failure_decomposition.csv,Combined n_failures,359.0,0.0,MATCH,
+Results 3.5,Combined recall-fail 226,226.0,m9_failure_decomposition.csv,Combined n_recall_fail,226.0,0.0,MATCH,
+Results 3.5,Combined in-pool 133,133.0,m9_failure_decomposition.csv,Combined n_in_pool_fail,133.0,0.0,MATCH,
+Results 3.5,Combined cocomplex 93 of 133 69.9%,69.9,m9_failure_decomposition.csv,Combined pct_cocomplex,69.9,0.0,MATCH,
+Results 3.5,Dev in-pool Top-5 25/93,25.0,m9_failure_decomposition.csv,Dev n_in_pool_in_top5,25.0,0.0,MATCH,
+Results 3.5,Dev hub 15 16.1%,16.1,m9_failure_decomposition.csv,Dev pct_hub_of_in_pool,16.1,0.0,MATCH,
+Results 3.5,Dev unverified 12 12.9%,12.9,m9_failure_decomposition.csv,Dev pct_unverified_of_in_pool,12.9,0.0,MATCH,
+Results 3.8,Unseen gate trigger 82.8% 53/64,82.8,r1c_gate_mechanism_audit.csv,Unseen trigger_rate_pct,82.8,0.0,MATCH,
+Results 3.8,K562 All_KD0.5 demote 308/405 76.0%,76.0,r1c_gate_mechanism_audit.csv,K562 All pct_trig_true_tf_demoted,76.0,0.0,MATCH,
+Results 3.8,RPE1 demote 56/71 78.9%,78.9,r1c_gate_mechanism_audit.csv,RPE1 pct_trig_true_tf_demoted,78.9,0.0,MATCH,
+Results 3.1,Seen M0 8/71 11.3%,11.3,knocktf401_ranks_with_study_ids.csv,Seen r_m0==1,11.3,0.0,MATCH,
+Results 3.2,Dev prior Top-1 6.8%,6.8,knocktf401_ranks_with_study_ids.csv,Dev r_prior_loso==1,6.8,0.0,MATCH,
+Results 3.2,Dev M5 Top-1 9.0%,9.0,knocktf401_ranks_with_study_ids.csv,Dev r_m5==1,9.0,0.0,MATCH,
+Results 3.2,Dev M5 Top-5 17.7%,17.7,knocktf401_ranks_with_study_ids.csv,Dev r_m5<=5,17.7,0.0,MATCH,
+Results 3.2,Dev prior Top-5 14.7%,14.7,knocktf401_ranks_with_study_ids.csv,Dev r_prior<=5,14.7,0.0,MATCH,
+Results 3.3,Unseen M0 Top-5 32.8%,32.8,knocktf401_ranks_with_study_ids.csv,Unseen r_m0<=5,32.8,0.0,MATCH,
+Results 3.3,Unseen prior Top-1 7.8%,7.8,knocktf401_ranks_with_study_ids.csv,Unseen r_prior==1,7.8,0.0,MATCH,
+Results 3.3,Unseen M5 Top-1 7.8%,7.8,knocktf401_ranks_with_study_ids.csv,Unseen r_m5==1,7.8,0.0,MATCH,
+Results 3.8,K562 M9 Top-1 6/267 2.25%,2.25,replogle2022_k562_gwps_ranks.csv,primary r_m9==1,2.2,0.04999999999999982,MATCH,
+Results 3.8,K562 M5 Top-1 5/267 1.87%,1.87,replogle2022_k562_gwps_ranks.csv,primary r_m5==1,1.9,0.029999999999999805,MATCH,
+Results 3.8,K562 ULM Top-1 2/267 0.75%,0.75,replogle2022_k562_gwps_ranks.csv,primary r_m1==1,0.75,0.0,MATCH,
+Results 3.8,K562 M9 Top-5 11/267 4.12%,4.12,replogle2022_k562_gwps_ranks.csv,primary r_m9<=5,4.1,0.020000000000000462,MATCH,
+Results 3.8,K562 M5 Top-5 13/267 4.87%,4.87,replogle2022_k562_gwps_ranks.csv,primary r_m5<=5,4.9,0.03000000000000025,MATCH,
+Results 3.8,K562 ULM Top-5 6/267 2.25%,2.25,replogle2022_k562_gwps_ranks.csv,primary r_m1<=5,2.2,0.04999999999999982,MATCH,
+Results 3.8,K562 M0 Top-1 48.3%,48.3,r1a_random_baseline_check.csv,K562 M0 top1_pct,48.31,0.010000000000005116,MATCH,
+R1a,random Top-1 0.15% 1/647,0.15,r1a_random_baseline_check.csv,Random top1_pct,0.15,0.0,MATCH,
+R1a,random Top-5 0.77% 5/647 median 324,0.77,r1a_random_baseline_check.csv,Random top5_pct,0.77,0.0,MATCH,
+R1b,restricted Dev M9 12/266 4.5%,4.5,r1b_knocktf_restricted8k_summary.csv,Dev M9_vs_ULM m9_top1,4.5,0.0,MATCH,token in m9_top1 column
+Results 3.9,GEO M9 vs ULM +0.922 bits,0.922,r2_geo_phase2_holm.csv,m5 M9_vs_ULM mean,0.9217079343610842,0.00029206563891581716,MATCH,
+Results 3.9,GEO M5 vs ULM +1.078 bits,1.078,r2_geo_phase2_holm.csv,m5 M5_vs_ULM mean,1.0778123634936994,0.0001876365063007146,MATCH,
+Results 3.9,GEO M10 vs ULM +1.011 bits,1.011,r2_geo_phase2_holm.csv,m7 M10_vs_ULM mean,1.0109034834478516,9.651655214826249e-05,MATCH,
+Results 3.9,GEO M9 vs M5 -0.156 bits,-0.156,r2_geo_phase2_holm.csv,m5 M9_vs_M5 mean,-0.1561044291326155,0.00010442913261549114,MATCH,
+Results 3.9,GEO cov_exp 0.996,0.996,r2_geo_phase2_ranks.csv,mean n_genes/CollecTRI coverage if present,0.996,0.0,MATCH,from phase2 log cov_exp=0.9958 rounded
+Results 3.3,Unseen ULM Top-1 W/L 6/1,6.0,study_level_stats_harmonised.csv,Unseen ULM Top-1 stat 6/1,6.0,0.0,MATCH,
+Results 3.3,Unseen ULM Top-5 W/L 12/3,12.0,study_level_stats_harmonised.csv,Unseen ULM Top-5 12/3,12.0,0.0,MATCH,
+Results 3.3,Unseen VIPER Top-1 W/L 6/2,6.0,study_level_stats_harmonised.csv,Unseen VIPER Top-1 6/2,6.0,0.0,MATCH,
+Results 3.3,Combined ULM Top-1 W/L 24/1,24.0,study_level_stats_harmonised.csv,Combined ULM Top-1 24/1,24.0,0.0,MATCH,
+Results 3.4,Combined M9 vs M5 Top-1 13/3,13.0,study_level_stats_harmonised.csv,Combined M5 Top-1 13/3,13.0,0.0,MATCH,
+Results 3.4,Unseen M9 vs M5 Top-1 4/1,4.0,study_level_stats_harmonised.csv,Unseen M5 Top-1 4/1,4.0,0.0,MATCH,
+Results 3.4,Unseen M9 vs M5 Top-5 7/1,7.0,study_level_stats_harmonised.csv,Unseen M5 Top-5 7/1,7.0,0.0,MATCH,
+Results 3.9,GEO KO M9 Top-1 4/19,4.0,r2_geo_phase2_ranks.csv,stratum==KO r_m9==1,4.0,0.0,MATCH,
+Results 3.9,GEO KO M5 Top-1 3/19,3.0,r2_geo_phase2_ranks.csv,stratum==KO r_m5==1,3.0,0.0,MATCH,
+Results 3.9,GEO KO ULM Top-1 0/19,0.0,r2_geo_phase2_ranks.csv,stratum==KO r_m1==1,0.0,0.0,MATCH,
+Results 3.9,average vs SUM 17/51 M5 ranks changed,17.0,r2_geo_deviation_average_vs_sum.csv,PASS intersection M5 rank delta != 0,17.0,0.0,MATCH,
+Results 3.8,KnockTF n_genes 21985,21985.0,knockTF_expr.csv,n_columns,21985.0,0.0,MATCH,
+Results 3.8,CollecTRI coverage mean 97.2%,97.2,collectri_human.csv ∩ knockTF_expr.csv,mean fraction of CollecTRI targets in KnockTF matrix over 647 cand_tfs,97.2,0.0,MATCH,recomputed in r9
+Results 3.8,CollecTRI coverage median 98.3%,98.3,collectri_human.csv ∩ knockTF_expr.csv,median fraction over 647 cand_tfs,98.3,0.0,MATCH,recomputed in r9
+Results 3.5,Unseen TF-Class ULM 15.6% / M9 17.2%,15.6,audit/r10_tfclass_unseen64.csv,Unseen ulm_class_pct,15.6,0.0,MATCH,
+Results 3.8,K562 n_genes 8248,8248.0,K562_gwps_normalized_bulk_01.h5ad,n_vars,8248.0,0.0,MATCH,
+Results 3.8,RPE1 n_genes 8749,8749.0,rpe1_normalized_bulk_01.h5ad,n_vars,8749.0,0.0,MATCH,
+Results 3.8,K562 CollecTRI mean 33.4%,33.4,K562 h5ad gene_name ∩ CollecTRI,mean coverage over 647,33.4,0.0,MATCH,
+Results 3.8,K562 CollecTRI median 32.1 IQR 23.9-41.8,32.1,K562 h5ad gene_name ∩ CollecTRI,median coverage,32.1,0.0,MATCH,
+Results 3.8,RPE1 CollecTRI mean 42.8%,42.8,RPE1 h5ad gene_name ∩ CollecTRI,mean coverage,42.8,0.0,MATCH,
+Results 3.8,RPE1 CollecTRI median 42.1%,42.1,RPE1 h5ad gene_name ∩ CollecTRI,median coverage,42.1,0.0,MATCH,
+Results 3.8,K562 <5 targets 190/647 29.4%,190.0,K562 ∩ CollecTRI,n cand_tfs with <5 targets,190.0,0.0,MATCH,
+Results 3.8,RPE1 <5 targets 126/647 19.5%,126.0,RPE1 ∩ CollecTRI,n cand_tfs with <5 targets,126.0,0.0,MATCH,
+Results 3.8,K562 <5 pct 19.5%,19.5,126/647,100*126/647,19.5,0.0,MATCH,
+Results 3.8,shared KnockTF∩K562 7152,7152.0,knockTF_expr.csv ∩ K562 gene_name,len(intersection),7152.0,0.0,MATCH,
+Results 3.8,Dev recall pool 46.6%,46.6,cand6_all266_complete_table.csv,in_active124 mean*100,46.6,0.0,MATCH,
+Results 3.8,Unseen recall pool 48.4%,48.4,holdout135_harmonised_ranks.csv,Unseen in_recalled mean*100,48.4,0.0,MATCH,
+Results 3.2,Dev M9 vs ULM Top-5 W/L 31/4,31.0,knocktf401_ranks_with_study_ids.csv,Dev M9<=5 & ULM>5,31.0,0.0,MATCH,
+Results 3.2,Dev M9 vs VIPER Top-1 W/L 15/0,15.0,knocktf401_ranks_with_study_ids.csv,Dev M9==1 & VIPER!=1,15.0,0.0,MATCH,
+Results 3.2,Dev M9 vs VIPER Top-5 W/L 30/1,30.0,knocktf401_ranks_with_study_ids.csv,Dev M9<=5 & VIPER>5,30.0,0.0,MATCH,
+Results 3.2,Dev M9 vs prior Top-1 24/11,24.0,knocktf401_ranks_with_study_ids.csv,Dev M9==1 & prior!=1,24.0,0.0,MATCH,
+Results 3.3,old-scoring Unseen M9 Top-5 17/64,17.0,holdout135_harmonised_ranks.csv,Unseen r_m9_determ_orig<=5,17.0,0.0,MATCH,
+Results 3.3,old-scoring Unseen Top-5 vs ULM 12/1,12.0,study_level_stats_corrected.csv,Unseen_new r_m1_ulm Top-5 stat,12.0,0.0,MATCH,historical scoring; Unseen_new 12/1 p_clust=0.014
+Results 3.3,old-ID Unseen_old51 Top-5 vs ULM 12/0,12.0,study_level_stats_corrected.csv,Unseen_old51 r_m1_ulm Top-5 12/0,12.0,0.0,MATCH,historical study-ID / scoring
+Results 3.5,cascade Top-1 rescue 11.1% vs 16.4%,11.1,knocktf_precomputed_bundle.pkl + CollecTRI/DoRothEA/ENCODE/ReMap,recalled ULM-wrong cascade vs not,11.1,0.0,MATCH,
+Results 3.5,non-cascade Top-1 rescue 16.4%,16.4,same as cascade row,recalled ULM-wrong non-cascade,16.4,0.0,MATCH,
+Results 3.5,TF-Class recalled Dev M9 31.5%,31.5,audit/r10_tfclass_dev266.csv,recalled_m9_class_pct,31.5,0.0,MATCH,
+Results 3.5,TF-Class recalled Dev ULM 21.0%,21.0,audit/r10_tfclass_dev266.csv,recalled_ulm_class_pct,21.0,0.0,MATCH,
+Results 3.5,TF-Class Dev ULM 11.7%,11.7,audit/r10_tfclass_dev266.csv,ulm_class_pct,11.7,0.0,MATCH,
+Results 3.5,TF-Class Dev M9 15.4%,15.4,audit/r10_tfclass_dev266.csv,m9_class_pct,15.4,0.0,MATCH,
+Discussion outline,risk-coverage recalled Dev 44.0%,44.0,m9_risk_coverage.csv,Dev_Recalled_124 coverage=0.2 m9_top1_pct,44.0,0.0,MATCH,
+Discussion outline,risk-coverage Unseen 53.8%,53.8,m9_risk_coverage.csv,Unseen_64 coverage=0.2 m9_top5_pct,53.85,0.05000000000000426,MATCH,
+Discussion outline,risk-coverage recalled Unseen 66.7%,66.7,m9_risk_coverage.csv,Unseen_Recalled_31 coverage=0.2 m9_top5_pct,66.67,0.030000000000001137,MATCH,
+Results 3.8,K562 gate ChIP-path 150/153,150.0,r1c_gate_mechanism_audit.csv,K562 n_trig_demote_low_chip_doro,150.0,0.0,MATCH,
+Results 3.8,RecalledPool M9 Top-5 21.2%,21.2,p0_2_external_validation_summary.csv,K562 RecalledPool M9 vs ULM m9_top5_pct,21.18,0.019999999999999574,MATCH,
+Methods 2.4,M10 LOSO 168/170,168.0,r6_m10_dev266_loso_fold_votes.csv,"(1.0,0.3) fold count",168.0,0.0,MATCH,
+Results 3.7,M8 LOSO 43/124,43.0,cand6_all266_complete_table.csv,in_active124 r_m8_loso_cv==1,43.0,0.0,MATCH,
+Results 3.7,M9 on recalled Dev 31/124,31.0,cand6_all266_complete_table.csv,in_active124 r_m9_determ==1,31.0,0.0,MATCH,
+Results 3.7,M8 symbol-blind 29/124,29.0,cand6_symbol_blind124_results.csv,r_m8_sblind==1,29.0,0.0,MATCH,
+Results 3.7,M8 symbol-blind Top-5 56/124,56.0,cand6_symbol_blind124_results.csv,r_m8_sblind<=5,56.0,0.0,MATCH,
+Results 3.7,M8 anon 33/124,33.0,cand6_anon124_results.csv,r_m8_anon==1,33.0,0.0,MATCH,
+Results 3.7,Unseen M8 10/64,10.0,cand6_untouched_holdout134_results.csv ∩ Unseen 64,r_m8_deconftf==1 on current Unseen ids,10.0,0.0,MATCH,
+Methods 2.5,M8 LOSO-CV 43/124 34.7%,34.7,cand6_all266_complete_table.csv,100*43/124,34.7,0.0,MATCH,
+Methods 2.4,"main LOSO (0.5,2.0) 165/170",165.0,audit/r10_m9_loso_folds_top1_first_in_grid.csv,"votes for 0.5,2.0",165.0,0.0,MATCH,
+Methods 2.4,prefer-frozen LOSO 27/266,27.0,audit/r10_m9_loso_summary.json,top1_prefer_0.5_3.0 loso_top1,27.0,0.0,MATCH,
+Methods 2.4,prefer-frozen votes 166/170,166.0,audit/r10_m9_loso_summary.json,"votes for 0.5,3.0 under prefer",166.0,0.0,MATCH,
+Methods 2.4,cv_objective LOSO 28/266 10.5%,28.0,audit/r10_m9_loso_summary.json,cv_objective loso_top1,28.0,0.0,MATCH,
+Methods 2.4,mean n_tied 5.9,5.9,audit/r10_m9_loso_summary.json,top1_first_in_grid mean_n_tied,5.876,0.02400000000000002,MATCH,
+Results 3.5,Unseen TF-Class M9 17.2%,17.2,audit/r10_tfclass_unseen64.csv,m9_class_pct,17.2,0.0,MATCH,
+Results 3.5,Unseen recalled TF-Class 29.0% both,29.0,audit/r10_tfclass_unseen64.csv,recalled class pct both,29.0,0.0,MATCH,
+Methods 2.4,historical unrecovered LOSO 141/142,141.0,not found,historical report; original script lost,,,UNVERIFIED,UNVERIFIED historical
+Methods 2.4,historical unrecovered LOSO 167/170,167.0,not found,historical report; original script lost,,,UNVERIFIED,UNVERIFIED historical
+Methods short,Dev bundle target logFC < -1.0,-1.0,artifacts/src/deconftf_tools.py,prepare_knocktf_bundle line 150,-1.0,0,MATCH,code uses strict less-than; FROZEN_MANIFEST.md line 80 writes strong as on-target shift <= -1.0
+Methods short,frozen strong knockdown on-target shift <= -1.0,-1.0,papers/deconf-regulon/FROZEN_MANIFEST.md,line 80,-1.0,0,MATCH,locked stratification wording; differs from the Dev code at exactly -1.0
+Methods short,frozen moderate knockdown -1.0 < shift <= -0.5,-0.5,papers/deconf-regulon/FROZEN_MANIFEST.md,line 80,-0.5,0,MATCH,upper bound of the moderate band; lower bound is exclusive -1.0
+Methods short,holdout keeps logFC <= -0.5 outside Dev,-0.5,artifacts/src/run_nar_hard_gates.py,untouched_meta lines 188-192,-0.5,0,MATCH,comment says -1.0 < logFC <= -0.5; code is complement of the Dev bundle plus logFC <= -0.5
+Methods short,M5 weight CollecTRI_Signed,1.5,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.5,0,MATCH,same value FROZEN_MANIFEST.md line 21
+Methods short,M5 weight CollecTRI_Abs,0.8,artifacts/src/deconftf_tools.py,weights dict lines 290-302,0.8,0,MATCH,same value FROZEN_MANIFEST.md line 21
+Methods short,M5 weight CollecTRI_Unsigned,1.0,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.0,0,MATCH,same value FROZEN_MANIFEST.md line 21
+Methods short,M5 weight DoRothEA_Signed,1.2,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.2,0,MATCH,same value FROZEN_MANIFEST.md line 22
+Methods short,M5 weight DoRothEA_Abs,0.6,artifacts/src/deconftf_tools.py,weights dict lines 290-302,0.6,0,MATCH,same value FROZEN_MANIFEST.md line 22
+Methods short,M5 weight ARCHS4,1.2,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.2,0,MATCH,same value FROZEN_MANIFEST.md line 23
+Methods short,M5 weight GTEx,0.8,artifacts/src/deconftf_tools.py,weights dict lines 290-302,0.8,0,MATCH,same value FROZEN_MANIFEST.md line 23
+Methods short,M5 weight ENCODE,1.0,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.0,0,MATCH,same value FROZEN_MANIFEST.md line 24
+Methods short,M5 weight ReMap,1.2,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.2,0,MATCH,same value FROZEN_MANIFEST.md line 24
+Methods short,M5 weight Literature ChIP,1.2,artifacts/src/deconftf_tools.py,weights dict lines 290-302,1.2,0,MATCH,same value FROZEN_MANIFEST.md line 24
+Methods short,M5 weight Enrichr,0.8,artifacts/src/deconftf_tools.py,weights dict lines 290-302,0.8,0,MATCH,same value FROZEN_MANIFEST.md line 25
+Methods short,cov_exp on Dev 266,0.972,papers/deconf-regulon/FROZEN_MANIFEST.md,line 185,0.972,0,MATCH,locked before GEO scoring; approximately constant
+Methods short,KnockTF primary family size,12,artifacts/src/stats_harmonised_holdout.py,prim mask lines 52-54,12,0,MATCH,Unseen and Combined_401 x ULM and VIPER x Top-1 Top-5 dlog2; FROZEN external family is a different m=5
+Methods short,study-clustered sign-flip permutations,20000,papers/deconf-regulon/FROZEN_MANIFEST.md,section 4.5 line 188,20000,0,MATCH,default n_perm in artifacts/src/verify_round4_accept_checks.py line 39
+Methods short,permutation seed,42,papers/deconf-regulon/FROZEN_MANIFEST.md,section 4.5 line 188,42,0,MATCH,same default seed in verify_round4_accept_checks.py
+Methods short,agent temperature,0,papers/deconf-regulon/plan1_agent_evaluation_E0_E5.md,line 9,0,0,MATCH,except a later self-consistency arm; also a2_pilot_design.md
+Methods short,E0 max_completion_tokens,16384,papers/deconf-regulon/plan1_agent_evaluation_E0_E5.md,E0 line 19,16384,0,MATCH,v3 raised the shared cap to the same value: a2_v3_pilot_design.md line 3
+Methods short,v2 max_completion_tokens,4096,papers/deconf-regulon/a2_pilot_design.md,line 13,4096,0,MATCH,v3 design states the raise from 4096 to 16384
+Methods short,E1 ordered symbol list length,10,papers/deconf-regulon/plan1_agent_evaluation_E0_E5.md,E1 line 22,10,0,MATCH,design constant; E1 result counts stay out of Methods
+Results short,R3 ULM unblinded Top-1 24/266 9.02%,9.02,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Dev_266; 1_Unblinded_WithSelfLoops; M1_ULM,9.02,0,MATCH,24 hits of 266
+Results short,R3 ULM strict-blinded Top-1 15/266 5.64%,5.64,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Dev_266; 3_StrictBlinded_1888TFs; M1_ULM,5.64,0,MATCH,15 hits of 266
+Results short,R3 RPE1 ChEA3 TopRank pooled AUROC 0.6399,0.6399,audit/r3_method_performance_by_blinding_and_metric.csv,Replogle_RPE1_Primary_76; 3_StrictBlinded_1888TFs; M4_ChEA3_Orig6_TopRank,0.6399,0,MATCH,
+Results short,R3 RPE1 ChEA3 TopRank Top-5 1/76 1.32%,1.32,audit/r3_method_performance_by_blinding_and_metric.csv,Replogle_RPE1_Primary_76; 3_StrictBlinded_1888TFs; M4_ChEA3_Orig6_TopRank,1.32,0,MATCH,
+Results short,R3 RPE1 M5 Top-5 5/76 6.58%,6.58,audit/r3_method_performance_by_blinding_and_metric.csv,Replogle_RPE1_Primary_76; 3_StrictBlinded_1888TFs; M5_MultiModal_Static,6.58,0,MATCH,
+Results short,R3 Unseen M9-vs-M5 mean Δlog2 rank +0.310,0.310,audit/r3_ranking_inversion_and_significance_shift.csv,KnockTF_Unseen_64; M9_Selective_Deconf_vs_M5_MultiModal_Static,0.31,0,MATCH,
+Results short,R3 Unseen M9-vs-M5 Wilcoxon p 0.0058,0.0058,audit/r3_ranking_inversion_and_significance_shift.csv,KnockTF_Unseen_64; M9_Selective_Deconf_vs_M5_MultiModal_Static p_log2rank_naive_wilcox,0.005848804976245443,0.00004880497624544277,MATCH,rounded
+Results short,R3 Unseen M9-vs-M5 clustered p 0.139,0.139,audit/r3_ranking_inversion_and_significance_shift.csv,KnockTF_Unseen_64; M9_Selective_Deconf_vs_M5_MultiModal_Static p_log2rank_clustered,0.1391430428478576,0.00014304284785758307,MATCH,rounded
+Results short,Forest cohorts Dev 266 Unseen 64 K562 267 RPE1 76 GEO 51,266,audit/r7_forest_all_cohorts_summary.csv,rows 2 6 10 14 18 n,266,0,MATCH,other row n values 64 267 76 51
+Results short,Forest Unseen M9-vs-ULM +1.515 bits,1.515,audit/r7_forest_all_cohorts_summary.csv,KnockTF Unseen 64; M9 vs ULM,1.5148572402905263,0.00014275970947365146,MATCH,rounded
+Results short,Forest Unseen M9-vs-M5 +0.310 bits,0.310,audit/r7_forest_all_cohorts_summary.csv,KnockTF Unseen 64; M9 vs M5,0.30973209928353296,0.00026790071646702884,MATCH,rounded
+Results short,Forest K562 M9-vs-M5 +0.003 bit,0.003,audit/r7_forest_all_cohorts_summary.csv,Replogle K562 Primary 267; M9 vs M5,0.003139993309929975,0.00013999330992997495,MATCH,rounded
+Results short,Forest K562 M9-vs-ULM +0.115 bit,0.115,audit/r7_forest_all_cohorts_summary.csv,Replogle K562 Primary 267; M9 vs ULM,0.11539869550578474,0.00039869550578473885,MATCH,rounded
+Results short,Forest RPE1 M9-vs-M5 -0.234 bit,-0.234,audit/r7_forest_all_cohorts_summary.csv,Replogle RPE1 76; M9 vs M5,-0.23411441042847655,0.00011441042847653727,MATCH,rounded
+Results short,Forest GEO M5-vs-ULM +1.078 bits,1.078,audit/r7_forest_all_cohorts_summary.csv,GEO bulk RNA-seq 51; M5 vs ULM,1.0778123634936994,0.0001876365063007146,MATCH,rounded
+Results short,Forest GEO M9-vs-M5 -0.156 bit,-0.156,audit/r7_forest_all_cohorts_summary.csv,GEO bulk RNA-seq 51; M9 vs M5,-0.1561044291326155,0.00010442913261549114,MATCH,rounded
+Results short,Unseen M9 Top-1 8/64 12.5%,12.5,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Unseen_64; 3_StrictBlinded_1888TFs; M9_Selective_Deconf,12.5,0,MATCH,8 hits of 64
+Results short,Dev M9 failures 235/266 and recall failures 142/235,142,m9_failure_decomposition.csv,Dev_266 row n_failures and n_recall_fail,142,0,MATCH,n_failures=235 of 266
+Results short,Oracle true-TF rescue 67/142 47.18%,47.18,agent/a1_dev266_ceiling_summary.csv,oracle_true_any_cell_rescue_top25 with n_recall_fail denominator,47.18,0,MATCH,67 of 142
+Results short,Rule rescue 10/142 7.04%,7.04,agent/a1_dev266_ceiling_summary.csv,rule_rescue_top25 with n_recall_fail denominator,7.04,0,MATCH,10 of 142
+Results short,v2 condition-C incremental 2/36 vs 0/36,2,agent/a2_pilot_summary.txt,lines 7-9,2,0,MATCH,all three locked controls are 0/36
+Results short,v2 condition-C end-to-end Δlog2 rank +0.097,0.097,agent/a2_pilot_summary.txt,line 10,0.0969,0.00010000000000000286,MATCH,rounded
+Results short,v2 parse failures 86/120,86,agent/a2_pilot_summary.txt,line 3,86,0,MATCH,
+Results short,v2 decision NO-GO,0,agent/a2_pilot_summary.txt,line 17,0,0,MATCH,non-numeric decision encoded as 0
+Results short,v3 condition-C incremental 0/27 vs 1/27,0,agent/a2v3_pilot_summary.txt,lines 6-8,0,0,MATCH,
+Results short,v3 condition-C end-to-end Δlog2 rank -0.208,-0.208,agent/a2v3_pilot_summary.txt,line 9,-0.2077,0.00030000000000002247,MATCH,rounded
+Results short,v3 decision NO-GO,0,agent/a2v3_pilot_summary.txt,line 16,0,0,MATCH,non-numeric decision encoded as 0
+Methods short,missing KnockTF PubMed IDs 63,63,research_state.md,section 3 2026-10-30 research-ID correction,63,0,MATCH,10 recovered through GEO and 53 use accession fallback
+Methods short,missing PubMed IDs recovered through GEO 10,10,research_state.md,section 3 2026-10-30 research-ID correction,10,0,MATCH,
+Methods short,missing PubMed IDs using accession fallback 53,53,research_state.md,section 3 2026-10-30 research-ID correction,53,0,MATCH,
+Methods short,E3 Hamilton sample 60 seed 44,60,agent/e3_pro_summary.txt,line 5,60,0,MATCH,drawn from 146 Dev experiments unused in v2 or v3
+Methods short,E4 V2 maximum tool calls 6,6,artifacts/src/run_e4_agent_variants.py,MAX_TOOLS line 40,6,0,MATCH,
+Figure 1 v2,ULM top-call categories 15 76 129 46 of Dev 266,15,papers/deconf-regulon/figures/figure_audit.csv,fig1 panel A rows,15,0,MATCH,categories are perturbed TF hub low-ChIP other competitor
+Figure 1 v2,ULM Top-1 audit 24 20 15 across blinding regimes,24,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Dev_266 M1_ULM rows 2 13 24,24,0,MATCH,unblinded+self-loops no-self-loops strict blinded
+Figure 1 v2,M0 unblinded Top-1 122/266 45.9%,45.9,cand6_all266_complete_table.csv,r_m0_self_logfc==1,45.9,0,MATCH,
+Figure 1 v2,Dev M5 strict-blinded Top-1 24/266 9.02%,9.02,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Dev_266 strict M5,9.02,0,MATCH,
+Figure 1 v2,Dev M9 strict-blinded Top-1 31/266 11.65%,11.65,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Dev_266 strict M9,11.65,0,MATCH,
+Figure 1 v2,Dev M10 Top-1 30/266 11.3%,11.3,external/r5_m10_soft_gate_evaluation.csv,KnockTF_Dev_266_Full22k M10_Soft_vs_M9_Hard,11.3,0,MATCH,
+Figure 3 v2,Dev failure decomposition 142 66 27 of 235,142,m9_failure_decomposition.csv,Dev_266 row,142,0,MATCH,recall failure paralogue/co-complex and other in-pool
+Figure 3 v2,Unseen failure decomposition 33 15 8 of 56,33,m9_failure_decomposition.csv,Unseen_64 row,33,0,MATCH,recall failure paralogue/co-complex and other in-pool
+Figure 3 v2,M8 ladder 29 33 43 of recalled Dev 124,29,cand6_symbol_blind124_results.csv and cand6_anon124_results.csv and cand6_all266_complete_table.csv,r_m8_sblind r_m8_anon r_m8_loso_cv,29,0,MATCH,symbol blind metadata hidden and full context
+Figure 3 v2,M9 recalled Dev Top-1 31/124,31,cand6_all266_complete_table.csv,in_active124 r_m9_determ==1,31,0,MATCH,
+Figure 3 v2,v2 condition-C Δlog2 rank +0.097,0.097,agent/a2_pilot_summary.txt,line 10,0.0969,0.0001,MATCH,rounded
+Figure 3 v2,v3 condition-C Δlog2 rank -0.208,-0.208,agent/a2v3_pilot_summary.txt,line 9,-0.2077,0.0003,MATCH,rounded
+Figure 3 v2,risk-coverage recalled Dev n 124,124,papers/deconf-regulon/figures/fig3c_aurc_corrected.csv,n_recalled_dev,124,0,MATCH,
+Figure 3 v2,risk-coverage grid 0.15 to 1.00 with 18 points,18,papers/deconf-regulon/figures/plot_r12_figures.py,recalled_dev_curves coverage linspace,18,0,MATCH,
+Figure 3 v2,risk-coverage mean Top-1 M9 0.341,0.341,papers/deconf-regulon/figures/fig3c_aurc_corrected.csv,M9 mean_accuracy,0.34137178817359454,0.00037178817359452043,MATCH,rounded
+Figure 3 v2,risk-coverage mean Top-1 ULM 0.190,0.190,papers/deconf-regulon/figures/fig3c_aurc_corrected.csv,ULM mean_accuracy,0.19002847426583164,0.000028474265831647687,MATCH,rounded
+Figure 3 v2,context-rule usable rescue 7/142 4.9%,4.9,agent/a1_dev266_ceiling_summary.csv,rule_rescue_top25 minus rule_rescue_but_fewer_than_25_scored,4.929577464788732,0.02957746478873218,MATCH,10 minus 3; usable ranked-list rescues
+Figure 3 v2,M10-bonus rescue 9/142 6.34%,6.34,agent/a15_dev266_ceiling_summary.csv,rule_rescue_m10_bonus_top25 with n_recall_fail denominator,6.34,0,MATCH,
+Figure 3 v2,all-TF oracle rescue 13/142 9.15%,9.15,agent/a1_dev266_ceiling_summary.csv,oracle_all_tfs_any_cell_rescue_top25 with n_recall_fail denominator,9.15,0,MATCH,
+Figure 3 v2,true-TF any-human-track availability 76/142 53.52%,53.52,agent/a1_dev266_ceiling_summary.csv,recall_fail_true_tf_any_human_track with n_recall_fail denominator,53.52,0,MATCH,
+Figure 4,M8 ladder 29 33 43 and M9 31 of 124,29,cand6_symbol_blind124_results.csv and cand6_anon124_results.csv and cand6_all266_complete_table.csv,r_m8_sblind r_m8_anon r_m8_loso_cv and r_m9_determ,29,0,MATCH,
+Figure 4,v2 and v3 A/C Δlog2 ranks,-0.043,agent/a2_pilot_summary.txt and agent/a2v3_pilot_summary.txt,lines 10 and 13 in each summary,-0.0427,0.0003,MATCH,values v2 A/C -0.043 +0.097; v3 A/C +0.525 -0.208
+Figure 4,E4 V1/V2 A/C Δlog2 ranks,0.155,agent/e4_variants_summary.txt,lines 7-10,0.1545,0.0005,MATCH,values V1 A/C +0.155 +0.004; V2 A/C +0.155 -0.171
+Figure 4,E1 Dev 266 Top-k matrix,30,agent/e1_memory_summary.txt,lines 7-9,30,0,MATCH,P1/P2/prior/M10: Top-1 30/27/19/30; Top-5 64/63/44/51; Top-10 88/81/56/67
+Figure 4,E2 parsed-answer i/j hits,5,agent/e2_counterfactual_summary.txt,line 5,5,0,MATCH,Top-1 i/j 5/5 of 58; Top-10 i/j 11/17 of 58
+Results short,v3 parse failures 8/120 6.67%,8,agent/a2v3_pilot_summary.txt,line 3,8,0,MATCH,6.67% of 120 calls
+Results short,v3 condition-A end-to-end Δlog2 rank +0.525,0.525,agent/a2v3_pilot_summary.txt,line 12,0.5246,0.0004,MATCH,descriptive cluster p=0.0200
+Results short,v3 condition-A cluster p 0.020,0.020,agent/a2v3_pilot_summary.txt,line 12,0.0200,0,MATCH,descriptive only
+Results short,v3 condition-A first-hypothesis hits 12/60 and prior-explained 3/12,12,agent/a2v3_ac_decomposition.txt,line 7,12,0,MATCH,2 same-study and 1 cell-line mode
+Results short,E1 Dev 266 P1/P2/prior/M10 Top-1 30/27/19/30,30,agent/e1_memory_summary.txt,line 7,30,0,MATCH,of 266 Dev experiments
+Results short,E1 Dev 266 P1/P2/prior/M10 Top-5 64/63/44/51,64,agent/e1_memory_summary.txt,line 8,64,0,MATCH,of 266 Dev experiments
+Results short,E1 Dev 266 P1/P2/prior/M10 Top-10 88/81/56/67,88,agent/e1_memory_summary.txt,line 9,88,0,MATCH,of 266 Dev experiments; prior in Top-10 for 34/88
+Results short,E1 v3-60 P1/P2/v3-A/prior/M10 Top-5 17/18/19/14/12,17,agent/e1_memory_summary.txt,line 13,17,0,MATCH,Top-1 is 9/9/12/8/4 of 60
+Results short,E2 58/60 parsed and Top-1 i/j 5/5 Top-10 i/j 11/17,17,agent/e2_counterfactual_summary.txt,lines 3-6,17,0,MATCH,2 parse failures of 60
+Results short,E3 pro smoke stop 5/5 length at 16384,5,agent/e3_pro_summary.txt,lines 2-3,5,0,MATCH,100% parse failure on 5-call smoke check
+Results short,E4 V1 condition-C Δlog2 +0.004 p 0.955 and A +0.155 p 0.184,0.004,agent/e4_variants_summary.txt,lines 7-8,0.0040,0,MATCH,Top-5 C 13/60 and A 15/60
+Results short,E4 V2 condition-C Δlog2 -0.171 p 0.018 and A +0.155 p 0.382,-0.171,agent/e4_variants_summary.txt,lines 9-10,-0.1710,0,MATCH,Top-5 C 7/60 and A 14/60
+Results short,E5 GEO 9-test Holm p all 1.0000,1.0,agent/e5_holm.csv,rows 1-9 p_holm,1.0,0,MATCH,all 9 pre-registered tests have Holm p=1.0
+Results short,E5 GEO C vs M10 Δlog2 v3 -0.011 V1 -0.011 V2 -0.155,-0.155,agent/e5_holm.csv,rows 1 4 7 estimate,-0.1545915788060477,0.0004084211939523,MATCH,raw p 0.9473 0.8761 0.1229
+Results short,E5 GEO A-minus-C Δlog2 v3 +0.023 V1 -0.011 V2 +0.074,0.023,agent/e5_holm.csv,rows 2 5 8 estimate,0.02312700250211505,0.00012700250211505,MATCH,raw p 0.6192 1.0000 0.4494
+Results short,E5 GEO A Top-5 hit vs P1 +0.098 -0.039 -0.039,0.098,agent/e5_holm.csv,rows 3 6 9 estimate,0.09803921568627451,0.00003921568627451,MATCH,raw p 0.2523 0.8407 0.7631
+Results short,E5 GEO P1 Top-5 hits 8/51 and date split 4/29 vs 4/22,8,agent/e5_endpoints.txt,lines 18 and 34,8,0,MATCH,2025-05-31 split
+Results short,E5 GEO kappa v3 0.7045 V1 -0.1553 V2 0.3398,0.7045,agent/e5_endpoints.txt,lines 13-15,0.7045,0,MATCH,overlap 0.2510 0.0549 0.0941
+Results short,E5 GEO V1 condition-B Δlog2 -0.045 parse 35/51,-0.045,agent/e5_endpoints.txt,line 31,-0.0447,0.0003,MATCH,cluster p=0.3096 Top-5 7/51
+Results short,E5 Unseen 64 C Δlog2 v3 +0.231 V1 -0.038 V2 -0.136 and P1 Top-5 23/64,0.231,agent/e5_endpoints.txt,lines 37-43,0.2306,0.0004,MATCH,V1 A is +0.1603 descriptive p=0.0394
+Results short,E5 Replogle 267 C Δlog2 v3 +0.036 V1 -0.009 V2 -0.040 and split 169/98,0.036,agent/e5_endpoints.txt,lines 46-65,0.0363,0.0003,MATCH,in-matrix 169 vs absent 98
+Results short,E5 D8 neighbor-transcript leakage 0/51 0/64 1/267 CTBP1-DT,1,agent/e5_neighbor_transcripts.csv,K562_normalized_z_CTBP1,1,0,MATCH,CTBP1-DT=-0.266
+Figure 4,E5 GEO 51 A/C Δlog2 and Holm p=1,-0.011,agent/e5_endpoints.txt and agent/e5_holm.csv,geo descriptive and holm rows,-0.0111,0.0001,MATCH,v3 A/C +0.012/-0.011; V1 -0.023/-0.011; V2 -0.080/-0.155
+Results short,R3 11 methods including MLM WSUM WMEAN ZSCORE and native aREA VIPER,11,audit/r3_method_performance_by_blinding_and_metric.csv,KnockTF_Dev_266 3_StrictBlinded_1888TFs 11 rows,11,0,MATCH,native VIPER Top-1 13/266 MLM 13/266 WSUM 15/266 ZSCORE 14/266 WMEAN 6/266
+Results short,R1b 7152-gene restriction Dev M9 Top-1 31/266 to 12/266 and M9-ULM +0.711 bit,7152,external/r1b_knocktf_restricted8k_summary.csv,KnockTF_Dev_266_Restricted7152,7152,0,MATCH,Unseen M5-ULM +0.745 bit p=0.0045

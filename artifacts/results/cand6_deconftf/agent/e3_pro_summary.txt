@@ -1,0 +1,5 @@
+E3 deepseek-v4-pro pilot. Same prompt and condition-C line as A2 v3. Exploratory Dev sample.
+smoke stop: finish_reason length 5/5, missing 0. Remaining calls were not sent.
+stored calls 5, parse failures 5 (100.00%), stage spend 2.6489 CNY.
+Sample: Hamilton, seed 44, 60 from the 146 Dev experiments not used in v2 or v3.
+The locked line is not decided because the run is incomplete.

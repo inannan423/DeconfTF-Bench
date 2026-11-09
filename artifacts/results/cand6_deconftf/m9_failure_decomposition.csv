@@ -1,0 +1,5 @@
+cohort,method,n_total,n_top1_correct,n_failures,n_recall_fail,pct_recall_fail_of_failures,n_in_pool_fail,pct_in_pool_of_failures,n_in_pool_hub,pct_hub_of_in_pool,n_in_pool_unverified_small,pct_unverified_of_in_pool,n_in_pool_cocomplex_paralog,pct_cocomplex_of_in_pool,n_in_pool_in_top5,n_cocomplex_in_top5
+Dev_266,M9_selective,266,31,235,142,60.4,93,39.6,15,16.1,12,12.9,66,71.0,25,15
+Unseen_64,M9_selective,64,8,56,33,58.9,23,41.1,6,26.1,2,8.7,15,65.2,7,3
+Holdout_135,M9_selective,135,11,124,84,67.7,40,32.3,8,20.0,5,12.5,27,67.5,12,5
+Combined_401,M9_selective,401,42,359,226,63.0,133,37.0,23,17.3,17,12.8,93,69.9,37,20

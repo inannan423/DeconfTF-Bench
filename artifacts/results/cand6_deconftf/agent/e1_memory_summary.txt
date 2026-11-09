@@ -1,0 +1,14 @@
+E1 memory probe. Exploratory. Dev 266 only. No expression values were sent.
+all scheduled calls finished
+P1 calls 266, parse failures 0. P2 calls 266, parse failures 1.
+Stage spend 8.7675 CNY. Session soft cap 450.
+Excluded from every prompt: TF symbol, TF.Class, TF.Superclass, logFC.
+Prior is leave-one-study-out frequency on Dev 266 only (biosample 100, tissue 10, global 1).
+Top-1: P1 30/266, P2 27/266, Dev prior 19/266, M10 30/266
+Top-5: P1 64/266, P2 63/266, Dev prior 44/266, M10 51/266
+Top-10: P1 88/266, P2 81/266, Dev prior 56/266, M10 67/266
+Of P1 Top-10 hits, Dev prior also Top-10 in 34/88.
+On the 60 v3 experiments that also have a P1 answer:
+  Top-1: P1 9/60, P2 9/60, v3 condition A 12/60, Dev prior 8/60, M10 4/60
+  Top-5: P1 17/60, P2 18/60, v3 condition A 19/60, Dev prior 14/60, M10 12/60
+  Top-10: P1 23/60, P2 23/60, v3 condition A 24/60, Dev prior 16/60, M10 19/60

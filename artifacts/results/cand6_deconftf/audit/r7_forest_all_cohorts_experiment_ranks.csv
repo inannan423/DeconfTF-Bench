@@ -1,0 +1,725 @@
+cohort,cohort_role,cluster_unit,exp_id,cluster_id,true_tf,r_m1_ulm,r_m5_mm_static,r_m9_determ,r_m10_soft
+KnockTF Dev 266,development,study_id,DataSet_01_006,18815287,PROX1,60,2,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_007,18815287,NR2F2,168,93,93,233
+KnockTF Dev 266,development,study_id,DataSet_01_008,19190340,WT1,183,372,372,156
+KnockTF Dev 266,development,study_id,DataSet_01_010,19668191,TP53,5,3,2,2
+KnockTF Dev 266,development,study_id,DataSet_01_011,19139068,TP53,286,330,362,151
+KnockTF Dev 266,development,study_id,DataSet_01_012,19404404,FLI1,384,106,42,56
+KnockTF Dev 266,development,study_id,DataSet_01_013,19404404,FLI1,157,45,21,27
+KnockTF Dev 266,development,study_id,DataSet_01_014,19404404,FLI1,359,44,17,25
+KnockTF Dev 266,development,study_id,DataSet_01_015,19404404,FLI1,372,104,47,67
+KnockTF Dev 266,development,study_id,DataSet_01_016,19404404,FLI1,41,57,26,34
+KnockTF Dev 266,development,study_id,DataSet_01_017,19359602,ERG,215,231,231,99
+KnockTF Dev 266,development,study_id,DataSet_01_018,20215434,YY1,385,628,632,643
+KnockTF Dev 266,development,study_id,DataSet_01_021,19891767,STAT1,13,8,5,6
+KnockTF Dev 266,development,study_id,DataSet_01_025,GSE16249,MITF,5,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_026,GSE16249,PAX3,35,293,335,334
+KnockTF Dev 266,development,study_id,DataSet_01_027,GSE16249,PAX3,77,464,484,498
+KnockTF Dev 266,development,study_id,DataSet_01_030,15892871,RELA,4,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_031,15892871,TP53,21,13,13,13
+KnockTF Dev 266,development,study_id,DataSet_01_033,22046379,ATF3,149,475,489,617
+KnockTF Dev 266,development,study_id,DataSet_01_034,19965691,EGR3,17,29,138,87
+KnockTF Dev 266,development,study_id,DataSet_01_036,20927104,ETV1,624,60,31,38
+KnockTF Dev 266,development,study_id,DataSet_01_037,20227041,TP53,526,606,123,273
+KnockTF Dev 266,development,study_id,DataSet_01_038,20228809,TP53,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_042,20526341,POU5F1,3,5,4,4
+KnockTF Dev 266,development,study_id,DataSet_01_044,20686118,MYB,13,8,4,8
+KnockTF Dev 266,development,study_id,DataSet_01_049,23288901,STAT3,464,60,32,42
+KnockTF Dev 266,development,study_id,DataSet_01_051,21299862,RARA,638,107,107,55
+KnockTF Dev 266,development,study_id,DataSet_01_053,21572391,TFAP2C,27,2,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_058,21555518,BACH1,2,6,5,5
+KnockTF Dev 266,development,study_id,DataSet_01_059,21555518,BACH1,1,6,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_060,22789539,NFE2L2,2,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_068,22765508,TP53,20,7,5,5
+KnockTF Dev 266,development,study_id,DataSet_01_071,23300383,ELF5,159,189,78,98
+KnockTF Dev 266,development,study_id,DataSet_01_073,21828133,ZNF148,4,120,194,206
+KnockTF Dev 266,development,study_id,DataSet_01_074,22536322,CEBPD,326,92,49,60
+KnockTF Dev 266,development,study_id,DataSet_01_075,22536322,CEBPZ,279,643,643,622
+KnockTF Dev 266,development,study_id,DataSet_01_076,22536322,ETS1,480,109,50,63
+KnockTF Dev 266,development,study_id,DataSet_01_077,22536322,FOXM1,174,25,25,141
+KnockTF Dev 266,development,study_id,DataSet_01_078,22536322,HSF2,121,242,242,303
+KnockTF Dev 266,development,study_id,DataSet_01_079,22536322,MITF,378,38,18,28
+KnockTF Dev 266,development,study_id,DataSet_01_080,22536322,RELA,13,6,5,6
+KnockTF Dev 266,development,study_id,DataSet_01_081,22536322,SP1,1,3,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_083,22536322,STAT1,316,378,398,280
+KnockTF Dev 266,development,study_id,DataSet_01_084,22536322,STAT3,96,19,15,16
+KnockTF Dev 266,development,study_id,DataSet_01_085,22536322,STAT6,226,500,514,614
+KnockTF Dev 266,development,study_id,DataSet_01_086,16565084,HIF1A,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_088,24023716,FOXP1,114,130,213,243
+KnockTF Dev 266,development,study_id,DataSet_01_089,23201680,NR2F2,391,205,257,595
+KnockTF Dev 266,development,study_id,DataSet_01_090,22734039,NR2F2,452,116,187,109
+KnockTF Dev 266,development,study_id,DataSet_01_091,22162831,ETV6,619,207,80,106
+KnockTF Dev 266,development,study_id,DataSet_01_094,22482508,NANOG,221,144,60,77
+KnockTF Dev 266,development,study_id,DataSet_01_095,22482508,POU5F1,107,2,2,2
+KnockTF Dev 266,development,study_id,DataSet_01_096,22482508,SOX2,71,7,4,5
+KnockTF Dev 266,development,study_id,DataSet_01_098,GSE35965,SALL4,156,551,561,516
+KnockTF Dev 266,development,study_id,DataSet_01_099,22791811,FOS,607,188,63,88
+KnockTF Dev 266,development,study_id,DataSet_01_101,23041383,IRF6,404,369,394,407
+KnockTF Dev 266,development,study_id,DataSet_01_103,GSE37290,HNF1B,9,1,2,2
+KnockTF Dev 266,development,study_id,DataSet_01_105,23539448,FOXA1,39,70,34,46
+KnockTF Dev 266,development,study_id,DataSet_01_112,GSE38058,HSF1,293,229,267,119
+KnockTF Dev 266,development,study_id,DataSet_01_114,23318448,ARID1A,323,323,358,364
+KnockTF Dev 266,development,study_id,DataSet_01_117,GSE38944,ID1,493,441,470,483
+KnockTF Dev 266,development,study_id,DataSet_01_118,GSE38944,ID1,172,504,522,523
+KnockTF Dev 266,development,study_id,DataSet_01_121,26318045,ZIC2,256,563,575,575
+KnockTF Dev 266,development,study_id,DataSet_01_123,23372733,ZNF91,288,322,361,369
+KnockTF Dev 266,development,study_id,DataSet_01_132,25411851,EGR4,103,4,138,5
+KnockTF Dev 266,development,study_id,DataSet_01_135,23764000,SPDEF,80,25,112,69
+KnockTF Dev 266,development,study_id,DataSet_01_136,23284171,REST,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_138,23600753,IKZF1,644,105,39,48
+KnockTF Dev 266,development,study_id,DataSet_01_142,23375451,LEF1,58,73,48,57
+KnockTF Dev 266,development,study_id,DataSet_01_145,23907384,REST,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_147,24142692,EHF,245,4,4,4
+KnockTF Dev 266,development,study_id,DataSet_01_148,23878725,MYBL2,167,29,124,47
+KnockTF Dev 266,development,study_id,DataSet_01_149,23659968,ETS2,627,298,330,386
+KnockTF Dev 266,development,study_id,DataSet_01_150,24469049,TFAP2C,77,6,6,5
+KnockTF Dev 266,development,study_id,DataSet_01_151,24325916,TEAD4,7,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_154,23471820,STAT1,462,116,52,61
+KnockTF Dev 266,development,study_id,DataSet_01_155,23615731,HSF1,7,3,2,2
+KnockTF Dev 266,development,study_id,DataSet_01_156,23649089,HIF1A,17,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_162,24401939,ELK1,441,60,38,42
+KnockTF Dev 266,development,study_id,DataSet_01_164,24401939,JUN,60,71,155,65
+KnockTF Dev 266,development,study_id,DataSet_01_165,24401939,MAF,25,65,42,44
+KnockTF Dev 266,development,study_id,DataSet_01_166,24401939,NFATC3,546,256,290,299
+KnockTF Dev 266,development,study_id,DataSet_01_168,24401939,STAT3,8,3,2,3
+KnockTF Dev 266,development,study_id,DataSet_01_169,24088503,HOXB7,259,498,498,511
+KnockTF Dev 266,development,study_id,DataSet_01_170,24088503,HOXB7,635,542,542,338
+KnockTF Dev 266,development,study_id,DataSet_01_171,24830720,FOSL1,253,63,37,38
+KnockTF Dev 266,development,study_id,DataSet_01_173,23584901,ESRRG,133,579,579,562
+KnockTF Dev 266,development,study_id,DataSet_01_175,24726368,TP53,4,14,14,9
+KnockTF Dev 266,development,study_id,DataSet_01_176,23690307,NR2F2,188,35,15,20
+KnockTF Dev 266,development,study_id,DataSet_01_177,23690307,NR2F2,130,48,24,28
+KnockTF Dev 266,development,study_id,DataSet_01_180,23912451,STAT3,609,20,14,15
+KnockTF Dev 266,development,study_id,DataSet_01_183,24525232,TP63,19,2,1,2
+KnockTF Dev 266,development,study_id,DataSet_01_184,24525232,STAT3,8,8,3,7
+KnockTF Dev 266,development,study_id,DataSet_01_185,24058414,TCF4,526,320,348,227
+KnockTF Dev 266,development,study_id,DataSet_01_189,24043118,SPDEF,630,29,129,97
+KnockTF Dev 266,development,study_id,DataSet_01_192,24101480,AR,259,75,35,51
+KnockTF Dev 266,development,study_id,DataSet_01_196,16885358,TP63,76,35,25,27
+KnockTF Dev 266,development,study_id,DataSet_01_198,16885358,TP63,50,20,20,17
+KnockTF Dev 266,development,study_id,DataSet_01_200,16885358,TP63,394,75,75,54
+KnockTF Dev 266,development,study_id,DataSet_01_203,24670641,XBP1,172,87,170,134
+KnockTF Dev 266,development,study_id,DataSet_01_204,24670641,XBP1,44,176,232,222
+KnockTF Dev 266,development,study_id,DataSet_01_211,GSE51461,REST,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_213,25092176,SOX11,24,62,62,72
+KnockTF Dev 266,development,study_id,DataSet_01_214,25091051,BCLAF1,250,347,379,395
+KnockTF Dev 266,development,study_id,DataSet_01_217,24874575,TAL1,74,3,3,3
+KnockTF Dev 266,development,study_id,DataSet_01_220,25489981,HIF1A,4,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_222,25330987,KLF9,346,67,67,53
+KnockTF Dev 266,development,study_id,DataSet_01_223,25213081,FOXM1,128,8,90,16
+KnockTF Dev 266,development,study_id,DataSet_01_224,25892225,HIF1A,8,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_226,26728187,KLF2,321,225,272,299
+KnockTF Dev 266,development,study_id,DataSet_01_228,25450522,HIF1A,4,2,2,2
+KnockTF Dev 266,development,study_id,DataSet_01_233,25228652,FOXA1,155,5,5,5
+KnockTF Dev 266,development,study_id,DataSet_01_238,26039627,NFYB,54,137,69,80
+KnockTF Dev 266,development,study_id,DataSet_01_244,26108691,ETS1,18,10,10,10
+KnockTF Dev 266,development,study_id,DataSet_01_246,26108691,TLX1,581,550,552,537
+KnockTF Dev 266,development,study_id,DataSet_01_247,26387746,GATA6,94,41,24,28
+KnockTF Dev 266,development,study_id,DataSet_01_248,GSE6242,SMAD2,148,271,313,319
+KnockTF Dev 266,development,study_id,DataSet_01_255,25957686,YBX1,404,529,534,600
+KnockTF Dev 266,development,study_id,DataSet_01_256,25957686,YBX1,95,141,199,104
+KnockTF Dev 266,development,study_id,DataSet_01_257,25957686,YBX1,375,501,507,582
+KnockTF Dev 266,development,study_id,DataSet_01_258,25957686,YBX1,172,183,237,106
+KnockTF Dev 266,development,study_id,DataSet_01_260,GSE63957,SOX4,98,425,425,448
+KnockTF Dev 266,development,study_id,DataSet_01_261,26988706,NFKB2,138,6,4,5
+KnockTF Dev 266,development,study_id,DataSet_01_267,28507102,FOXO3,329,295,335,330
+KnockTF Dev 266,development,study_id,DataSet_01_277,27705911,SALL4,355,313,313,197
+KnockTF Dev 266,development,study_id,DataSet_01_280,GSE69661,ESRRA,192,150,150,78
+KnockTF Dev 266,development,study_id,DataSet_01_281,GSE69992,MSX1,7,17,137,77
+KnockTF Dev 266,development,study_id,DataSet_01_282,26810609,IRF7,149,69,153,125
+KnockTF Dev 266,development,study_id,DataSet_01_283,26416282,AHR,38,66,34,44
+KnockTF Dev 266,development,study_id,DataSet_01_295,27448979,TFAP4,377,298,298,124
+KnockTF Dev 266,development,study_id,DataSet_01_300,GSE75380,SOX17,79,211,269,275
+KnockTF Dev 266,development,study_id,DataSet_01_304,27732649,ETV5,623,102,176,194
+KnockTF Dev 266,development,study_id,DataSet_01_305,GSE75840,HOXA5,176,276,304,309
+KnockTF Dev 266,development,study_id,DataSet_01_306,26838672,NR2E1,67,267,313,331
+KnockTF Dev 266,development,study_id,DataSet_01_308,27043282,SOX9,293,91,91,56
+KnockTF Dev 266,development,study_id,DataSet_01_309,27043282,SOX9,293,91,91,56
+KnockTF Dev 266,development,study_id,DataSet_01_312,31296259,TFAP2C,56,38,131,61
+KnockTF Dev 266,development,study_id,DataSet_01_318,GSE83325,ELK3,243,40,40,37
+KnockTF Dev 266,development,study_id,DataSet_01_324,28847964,MYC,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_327,28041841,TP63,23,2,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_330,28041841,TP63,23,2,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_333,GSE9182,HOXC6,222,489,510,505
+KnockTF Dev 266,development,study_id,DataSet_01_336,28445475,GRHL3,119,4,116,6
+KnockTF Dev 266,development,study_id,DataSet_01_337,28445475,REST,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_338,28445475,REST,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_339,GSE94468-70,KLF4,557,36,18,26
+KnockTF Dev 266,development,study_id,DataSet_01_340,GSE94468-70,KLF7,520,310,347,349
+KnockTF Dev 266,development,study_id,DataSet_01_342,GSE94468-70,KLF7,328,486,503,500
+KnockTF Dev 266,development,study_id,DataSet_01_347,GSE76581,GATA3,409,55,55,43
+KnockTF Dev 266,development,study_id,DataSet_01_348,GSE76581,HIF1A,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_01_349,24726753,SOX2,18,11,6,10
+KnockTF Dev 266,development,study_id,DataSet_01_354,20005852,ELK1,534,213,78,102
+KnockTF Dev 266,development,study_id,DataSet_01_356,21373373,ETV4,565,34,20,24
+KnockTF Dev 266,development,study_id,DataSet_01_357,23112155,CDX2,426,126,59,67
+KnockTF Dev 266,development,study_id,DataSet_01_360,23241958,SOX17,243,43,149,105
+KnockTF Dev 266,development,study_id,DataSet_02_015,22955616,HOXB9,165,407,432,434
+KnockTF Dev 266,development,study_id,DataSet_02_016,22955616,JUND,49,122,53,60
+KnockTF Dev 266,development,study_id,DataSet_02_018,22955616,STAT2,101,171,224,194
+KnockTF Dev 266,development,study_id,DataSet_02_023,22955616,STAT1,615,336,103,160
+KnockTF Dev 266,development,study_id,DataSet_02_025,22955616,USF2,569,578,585,346
+KnockTF Dev 266,development,study_id,DataSet_02_026,22955616,USF1,553,402,425,437
+KnockTF Dev 266,development,study_id,DataSet_02_032,22955616,NFE2L1,17,369,369,393
+KnockTF Dev 266,development,study_id,DataSet_02_039,22955616,RELA,1,3,1,1
+KnockTF Dev 266,development,study_id,DataSet_02_040,22955616,TEAD4,463,368,93,147
+KnockTF Dev 266,development,study_id,DataSet_02_042,22955616,SP2,482,542,542,614
+KnockTF Dev 266,development,study_id,DataSet_02_048,22955616,SMAD5,68,582,582,631
+KnockTF Dev 266,development,study_id,DataSet_02_054,22955616,ATF3,221,520,520,608
+KnockTF Dev 266,development,study_id,DataSet_02_055,22955616,DLX1,433,169,246,265
+KnockTF Dev 266,development,study_id,DataSet_02_061,22955616,RFX5,547,422,422,157
+KnockTF Dev 266,development,study_id,DataSet_02_071,22955616,TFDP1,511,611,611,646
+KnockTF Dev 266,development,study_id,DataSet_02_075,22955616,HMGA1,502,613,615,611
+KnockTF Dev 266,development,study_id,DataSet_02_082,22955616,ZBTB33,217,640,138,483
+KnockTF Dev 266,development,study_id,DataSet_02_104,22955616,HDGF,209,435,463,461
+KnockTF Dev 266,development,study_id,DataSet_02_185,22955616,CTCF,579,218,81,100
+KnockTF Dev 266,development,study_id,DataSet_02_192,22955616,MAX,244,517,126,193
+KnockTF Dev 266,development,study_id,DataSet_03_004,19632176,AR,612,94,94,45
+KnockTF Dev 266,development,study_id,DataSet_03_005,19632176,AR,532,55,34,39
+KnockTF Dev 266,development,study_id,DataSet_03_007,22849360,AR,142,10,4,9
+KnockTF Dev 266,development,study_id,DataSet_03_013,GSE129475,ARID1A,294,433,446,449
+KnockTF Dev 266,development,study_id,DataSet_03_017,27146783,ATF3,294,12,4,8
+KnockTF Dev 266,development,study_id,DataSet_03_018,32283529,ATF4,15,4,124,9
+KnockTF Dev 266,development,study_id,DataSet_03_026,27322546,BCL6,18,50,163,38
+KnockTF Dev 266,development,study_id,DataSet_03_049,23097472,CEBPB,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_03_056,31911579,CTCF,16,37,19,20
+KnockTF Dev 266,development,study_id,DataSet_03_059,GSE66722,CTNNB1,612,230,276,301
+KnockTF Dev 266,development,study_id,DataSet_03_060,20348445,E2F1,9,178,245,296
+KnockTF Dev 266,development,study_id,DataSet_03_065,GSE66722,EP300,547,341,341,374
+KnockTF Dev 266,development,study_id,DataSet_03_073,32514071,ETS1,49,10,8,8
+KnockTF Dev 266,development,study_id,DataSet_03_074,32514071,ETS1,61,13,11,11
+KnockTF Dev 266,development,study_id,DataSet_03_075,27426982,ETV6,576,96,43,57
+KnockTF Dev 266,development,study_id,DataSet_03_078,32508810,FLI1,635,204,245,116
+KnockTF Dev 266,development,study_id,DataSet_03_080,31390833,FOXA1,30,16,5,11
+KnockTF Dev 266,development,study_id,DataSet_03_085,25013174,FOXD1,257,118,182,206
+KnockTF Dev 266,development,study_id,DataSet_03_087,27377963,FOXF2,606,543,549,538
+KnockTF Dev 266,development,study_id,DataSet_03_090,19835856,FOXM1,8,1,110,1
+KnockTF Dev 266,development,study_id,DataSet_03_091,15958562,FOXM1,39,12,136,137
+KnockTF Dev 266,development,study_id,DataSet_03_093,29682174,FOXM1,204,63,165,278
+KnockTF Dev 266,development,study_id,DataSet_03_096,GSE142608,FOXO1,137,19,8,14
+KnockTF Dev 266,development,study_id,DataSet_03_100,30245028,GATA2,99,48,48,30
+KnockTF Dev 266,development,study_id,DataSet_03_108,25053715,GATA6,131,194,78,95
+KnockTF Dev 266,development,study_id,DataSet_03_110,25053715,GATA6,14,40,23,25
+KnockTF Dev 266,development,study_id,DataSet_03_113,22829784,GRHL3,89,3,125,12
+KnockTF Dev 266,development,study_id,DataSet_03_114,22536322,HDAC3,544,397,414,435
+KnockTF Dev 266,development,study_id,DataSet_03_119,22536322,HIF1A,124,39,39,23
+KnockTF Dev 266,development,study_id,DataSet_03_122,27929715,HINFP,410,607,610,327
+KnockTF Dev 266,development,study_id,DataSet_03_123,27929715,HINFP,408,524,114,180
+KnockTF Dev 266,development,study_id,DataSet_03_124,23945276,HMGA1,54,16,115,35
+KnockTF Dev 266,development,study_id,DataSet_03_127,22536322,HOXB7,392,607,610,583
+KnockTF Dev 266,development,study_id,DataSet_03_129,26438876,HSF1,7,10,2,8
+KnockTF Dev 266,development,study_id,DataSet_03_143,26530832,JUN,11,4,2,2
+KnockTF Dev 266,development,study_id,DataSet_03_148,23319804,KLF5,3,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_03_149,25053715,KLF5,155,32,18,21
+KnockTF Dev 266,development,study_id,DataSet_03_150,25053715,KLF5,322,76,37,40
+KnockTF Dev 266,development,study_id,DataSet_03_151,25053715,KLF5,267,5,5,5
+KnockTF Dev 266,development,study_id,DataSet_03_155,28093525,MAFB,196,36,36,29
+KnockTF Dev 266,development,study_id,DataSet_03_165,26530832,MITF,9,5,2,4
+KnockTF Dev 266,development,study_id,DataSet_03_168,GSE75810,MITF,67,8,1,4
+KnockTF Dev 266,development,study_id,DataSet_03_173,24847116,MYB,34,11,109,11
+KnockTF Dev 266,development,study_id,DataSet_03_178,21317922,MYC,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_03_189,GSE66722,NCOA1,32,11,11,7
+KnockTF Dev 266,development,study_id,DataSet_03_190,GSE66722,NCOA2,79,209,209,99
+KnockTF Dev 266,development,study_id,DataSet_03_191,GSE66722,NCOA3,536,21,10,11
+KnockTF Dev 266,development,study_id,DataSet_03_192,26968201,NCOR1,18,60,159,143
+KnockTF Dev 266,development,study_id,DataSet_03_202,29982401,NR2F2,4,20,11,12
+KnockTF Dev 266,development,study_id,DataSet_03_205,GSE66722,PARK7,280,186,239,247
+KnockTF Dev 266,development,study_id,DataSet_03_207,22125492,PBX1,183,575,581,549
+KnockTF Dev 266,development,study_id,DataSet_03_208,23576735,PBX1,556,617,618,609
+KnockTF Dev 266,development,study_id,DataSet_03_209,23576735,PBX1,278,485,499,491
+KnockTF Dev 266,development,study_id,DataSet_03_214,29434585,PPARG,18,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_03_222,32514071,RELA,17,10,7,8
+KnockTF Dev 266,development,study_id,DataSet_03_223,32514071,RELA,9,10,6,7
+KnockTF Dev 266,development,study_id,DataSet_03_225,22565310,RELB,140,159,220,378
+KnockTF Dev 266,development,study_id,DataSet_03_228,23907384,REST,1,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_03_229,20522714,SATB1,3,39,130,86
+KnockTF Dev 266,development,study_id,DataSet_03_235,GSE66722,SMARCA4,629,348,377,398
+KnockTF Dev 266,development,study_id,DataSet_03_237,30076218,SOX11,89,536,551,613
+KnockTF Dev 266,development,study_id,DataSet_03_238,31505128,SOX11,86,553,561,540
+KnockTF Dev 266,development,study_id,DataSet_03_239,21124928,SOX11,2,1,1,1
+KnockTF Dev 266,development,study_id,DataSet_03_241,24477565,SOX2,591,85,40,51
+KnockTF Dev 266,development,study_id,DataSet_03_242,25156079,SOX2,334,21,10,15
+KnockTF Dev 266,development,study_id,DataSet_03_244,27283990,SOX2,431,70,36,45
+KnockTF Dev 266,development,study_id,DataSet_03_246,23482931,SOX4,601,512,512,526
+KnockTF Dev 266,development,study_id,DataSet_03_249,23018034,SP1,571,121,44,62
+KnockTF Dev 266,development,study_id,DataSet_03_251,25879517,SP1,42,40,20,21
+KnockTF Dev 266,development,study_id,DataSet_03_253,24875472,SPIB,328,17,11,12
+KnockTF Dev 266,development,study_id,DataSet_03_255,26537256,SSRP1,173,283,333,344
+KnockTF Dev 266,development,study_id,DataSet_03_256,22536322,STAT1,182,47,47,27
+KnockTF Dev 266,development,study_id,DataSet_03_258,GSE132561,STAT3,59,15,14,15
+KnockTF Dev 266,development,study_id,DataSet_03_259,GSE17482,STAT3,150,42,28,31
+KnockTF Dev 266,development,study_id,DataSet_03_260,GSE17482,STAT3,476,37,24,25
+KnockTF Dev 266,development,study_id,DataSet_03_261,GSE20597,STAT3,33,18,13,13
+KnockTF Dev 266,development,study_id,DataSet_03_262,GSE66722,STAT3,631,38,17,20
+KnockTF Dev 266,development,study_id,DataSet_03_264,21464207,STAT6,640,400,424,631
+KnockTF Dev 266,development,study_id,DataSet_03_274,17875680,TFAP2C,93,41,139,27
+KnockTF Dev 266,development,study_id,DataSet_03_275,18206534,TFE3,70,110,182,199
+KnockTF Dev 266,development,study_id,DataSet_03_277,22536322,TP53,75,59,154,80
+KnockTF Dev 266,development,study_id,DataSet_03_284,25013174,TWIST2,136,7,138,24
+KnockTF Dev 266,development,study_id,DataSet_03_287,30026228,ZHX2,129,308,344,349
+KnockTF Dev 266,development,study_id,DataSet_04_015,22955616,NKRF,147,58,153,138
+KnockTF Dev 266,development,study_id,DataSet_04_019,22955616,SMAD2,594,413,428,418
+KnockTF Dev 266,development,study_id,DataSet_04_020,22955616,SMAD4,451,468,107,168
+KnockTF Dev 266,development,study_id,DataSet_04_022,22955616,STAT1,623,398,109,167
+KnockTF Dev 266,development,study_id,DataSet_04_024,22955616,YBX1,375,610,614,644
+KnockTF Dev 266,development,study_id,DataSet_04_036,22955616,SMAD2,203,357,385,389
+KnockTF Dev 266,development,study_id,DataSet_04_037,22955616,SMAD4,405,545,107,191
+KnockTF Dev 266,development,study_id,DataSet_04_041,22955616,YBX1,35,293,293,295
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_001,18631401,ESR1,260,5,3,3
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_004,18801183,CREB1,137,368,113,152
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_041,21179004,TAL1,150,10,3,7
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_048,21205891,MYB,620,43,22,23
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_050,22162773,STAT6,71,72,173,37
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_056,GSE27966,ZEB2,309,87,40,49
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_057,GSE27966,ZEB2,18,30,30,23
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_061,21666600,GATA2,438,32,32,19
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_066,21907921,NKX2-1,45,217,269,281
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_067,21907921,NKX2-1,43,83,157,150
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_072,23502471,PAX2,310,528,548,540
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_106,23995784,FOXO1,629,24,12,19
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_120,23172872,GATA3,490,110,45,66
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_152,24792117,TAL1,409,116,116,62
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_160,25925418,MYCN,21,8,3,8
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_178,GSE47693,HSF1,111,81,37,48
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_207,24443471,MITF,17,2,1,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_208,25267198,FOXP1,414,573,577,585
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_209,25267198,FOXP1,26,105,105,137
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_210,25267198,FOXP1,336,589,589,610
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_216,24591637,ERG,146,34,137,123
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_236,26389677,FOXC2,256,21,137,69
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_237,25793315,MYC,5,8,104,10
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_241,27689884,TCF4,557,626,628,627
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_252,25368021,TWIST1,239,43,22,28
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_253,25368021,TWIST1,123,25,12,13
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_254,25368021,TWIST1,126,21,9,9
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_262,GSE64269,IRF4,307,31,19,25
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_263,27354269,TLX1,173,248,248,303
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_268,GSE66671,OTX2,165,118,60,68
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_270,28904225,FOXO1,8,16,11,13
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_278,GSE68993,AR,5,1,1,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_290,GSE7102,SP3,368,290,290,341
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_291,26792858,JUN,563,36,21,24
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_311,28881656,BRD4,1,13,121,43
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_317,28167044,ARNT,262,43,29,32
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_323,28416760,AR,47,2,1,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_334,28154170,STAT3,213,25,12,16
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_335,29050246,NFE2L2,11,2,2,2
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_350,26748419,SOX2,443,41,23,27
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_351,GSE8464,SMAD2,600,290,315,330
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_01_352,GSE8464,SMAD3,368,127,61,73
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_02_085,ENCSR905SEH,MITF,31,26,26,22
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_006,30557851,AR,523,103,44,61
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_016,21737174,ASCL1,501,209,82,105
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_064,24856929,EBF1,29,22,22,18
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_081,21151129,FOXA1,7,11,4,9
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_082,21151129,FOXA1,7,11,4,9
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_083,21572438,FOXA1,18,1,1,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_101,29666442,GATA2,509,124,59,66
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_144,GSE118123,JUND,640,548,130,230
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_159,23361464,MBD2,212,625,629,645
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_179,22102868,MYC,1,1,1,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_180,22102868,MYC,1,1,1,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_181,22102868,MYC,2,1,127,1
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_183,30584073,MYCN,33,6,1,4
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_184,30584073,MYCN,33,6,1,4
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_185,25925418,MYCN,26,9,3,8
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_194,21717420,NFAT5,43,110,184,192
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_227,30037996,RELB,226,67,153,97
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_245,27669421,SOX2,306,567,132,274
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_248,GSE143477,SOX9,492,266,83,111
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_254,21324924,SRF,419,78,37,46
+KnockTF Unseen 64,"post-development, already inspected",study_id,DataSet_03_269,24958354,TET1,378,479,497,304
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_AHR,Basic helix-loop-helix factors (bHLH),AHR,158,101,101,86
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_AR,Nuclear receptors with C4 zinc fingers,AR,55,234,86,151
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ARID1A,ARID domain factors,ARID1A,405,327,364,353
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ARID3A,ARID domain factors,ARID3A,376,95,183,70
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ARID4B,Unknown,ARID4B,386,415,447,440
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ATF1,Unknown,ATF1,134,183,63,118
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ATF2,Basic leucine zipper factors (bZIP),ATF2,114,146,228,120
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ATF3,Basic leucine zipper factors (bZIP),ATF3,502,341,98,214
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ATF4,Basic leucine zipper factors (bZIP),ATF4,6,1,2,2
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ATF5,Unknown,ATF5,83,265,300,290
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ATF7,Unknown,ATF7,422,620,625,632
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BACH1,Basic leucine zipper factors (bZIP),BACH1,45,274,84,158
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BATF,Unknown,BATF,417,122,191,154
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BCL11B,Unknown,BCL11B,515,507,533,527
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BCLAF1,Others,BCLAF1,422,257,315,299
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BHLHE40,Others,BHLHE40,44,395,413,545
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BHLHE41,Unknown,BHLHE41,513,594,594,603
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_BRCA1,Others,BRCA1,48,250,250,271
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CEBPG,Unknown,CEBPG,163,602,606,612
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CEBPZ,Others,CEBPZ,405,209,263,245
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CHD4,Unknown,CHD4,351,139,209,175
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CLOCK,Unknown,CLOCK,630,578,586,597
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CREB1,Basic leucine zipper factors (bZIP),CREB1,109,96,43,61
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CREB3L1,Unknown,CREB3L1,349,235,292,251
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CREB3L3,Unknown,CREB3L3,352,473,491,487
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CREBBP,Others,CREBBP,182,108,180,141
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CTBP1,Others,CTBP1,397,171,171,214
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CTBP2,Unknown,CTBP2,375,383,428,414
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CTCF,C2H2 zinc finger factors,CTCF,40,103,103,81
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CTNNB1,Others,CTNNB1,438,356,399,380
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_CXXC1,Unknown,CXXC1,197,368,368,391
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DBP,Unknown,DBP,47,47,47,62
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DDIT3,Unknown,DDIT3,154,258,258,281
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DEAF1,Unknown,DEAF1,417,98,37,68
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DLX2,Unknown,DLX2,411,561,575,565
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DLX3,Unknown,DLX3,443,547,558,557
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DLX4,Unknown,DLX4,636,232,77,141
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DMTF1,Unknown,DMTF1,352,281,342,314
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DNMT1,Unknown,DNMT1,496,385,411,410
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_DNMT3A,Unknown,DNMT3A,498,431,431,440
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_E2F1,Fork head / winged helix factors,E2F1,26,54,165,110
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_E2F4,Fork head / winged helix factors,E2F4,171,103,103,114
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_E2F5,Others,E2F5,366,594,596,625
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_E2F6,Fork head / winged helix factors,E2F6,546,141,141,94
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_E4F1,Zinc-coordinating DNA-binding domains,E4F1,328,297,94,179
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EBF1,Rel homology region (RHR) factors,EBF1,333,247,72,143
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EGR1,Unknown,EGR1,453,645,645,643
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EHF,Tryptophan cluster factors,EHF,121,14,15,11
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ELF4,Unknown,ELF4,609,150,224,192
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ELK1,Tryptophan cluster factors,ELK1,49,211,75,142
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ENO1,Unknown,ENO1,208,238,272,265
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EOMES,Unknown,EOMES,314,522,522,438
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EP300,Others,EP300,467,284,324,314
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ESR1,Nuclear receptors with C4 zinc fingers,ESR1,104,171,61,109
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ESRRA,Nuclear receptors with C4 zinc fingers,ESRRA,2,2,1,2
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ETS1,Tryptophan cluster factors,ETS1,460,208,208,146
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ETS2,Tryptophan cluster factors,ETS2,58,204,272,176
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ETV4,Tryptophan cluster factors,ETV4,581,37,20,32
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ETV5,Tryptophan cluster factors,ETV5,394,182,256,219
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EWSR1,Others,EWSR1,25,210,275,254
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_EZH2,Unknown,EZH2,562,534,534,538
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FGF2,Unknown,FGF2,366,366,405,397
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FLI1,Tryptophan cluster factors,FLI1,90,168,60,112
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOS,Basic leucine zipper factors (bZIP),FOS,555,559,131,430
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOSL1,Basic leucine zipper factors (bZIP),FOSL1,469,13,7,10
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOSL2,Unknown,FOSL2,558,71,32,54
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOXA1,Fork head / winged helix factors,FOXA1,125,271,86,168
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOXA2,Unknown,FOXA2,607,630,630,599
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOXG1,Unknown,FOXG1,351,388,428,421
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOXN1,Unknown,FOXN1,473,482,482,497
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOXO1,Fork head / winged helix factors,FOXO1,529,484,97,254
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_FOXO4,Unknown,FOXO4,522,373,409,399
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_GABPA,Tryptophan cluster factors,GABPA,111,41,20,28
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_GATA2,Other C4 zinc finger-type factors,GATA2,25,38,14,26
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_GATA3,Other C4 zinc finger-type factors,GATA3,166,549,560,644
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_GATA6,Other C4 zinc finger-type factors,GATA6,204,250,85,159
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_GTF3A,Unknown,GTF3A,76,39,140,52
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HCFC1,Unknown,HCFC1,296,381,415,413
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HDAC1,Unknown,HDAC1,147,255,297,286
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HDAC3,Others,HDAC3,343,279,320,310
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HDAC7,Unknown,HDAC7,353,312,354,343
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HDGF,Others,HDGF,384,224,290,268
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HESX1,Unknown,HESX1,626,462,494,490
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HHEX,Unknown,HHEX,435,220,263,246
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HINFP,C2H2 zinc finger factors,HINFP,45,146,146,97
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HLX,Unknown,HLX,332,90,90,126
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HMGB2,Unknown,HMGB2,392,437,466,454
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HNF1A,Homeo domain factors,HNF1A,12,26,156,40
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HNF4G,Nuclear receptors with C4 zinc fingers,HNF4G,355,241,293,264
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HOXA1,Homeo domain factors,HOXA1,152,99,190,145
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HOXA11,Unknown,HOXA11,353,612,615,610
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HOXB13,Unknown,HOXB13,373,603,612,613
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HOXC6,Homeo domain factors,HOXC6,353,449,478,460
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HSF2,Heat shock factors,HSF2,78,31,137,39
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_HTATIP2,Others,HTATIP2,339,368,405,395
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ID1,Others,ID1,23,204,271,238
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_IKZF1,C2H2 zinc finger factors,IKZF1,540,167,63,109
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_IKZF3,Unknown,IKZF3,385,225,273,251
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_IRF2,Tryptophan cluster factors,IRF2,536,260,316,354
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_IRF3,Unknown,IRF3,23,2,150,2
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_IRF4,Tryptophan cluster factors,IRF4,472,646,646,646
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_JDP2,Unknown,JDP2,505,184,257,211
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KAT5,Unknown,KAT5,160,405,435,429
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KAT7,Unknown,KAT7,13,66,158,83
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KDM5C,Unknown,KDM5C,29,64,64,97
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KLF1,Unknown,KLF1,8,8,1,8
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KLF5,C2H2 zinc finger factors,KLF5,471,77,34,54
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KLF7,C2H2 zinc finger factors,KLF7,426,231,291,270
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KLF8,Unknown,KLF8,41,315,351,345
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_KMT2A,Unknown,KMT2A,123,139,58,96
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_LEF1,High-mobility group (HMG) domain factors,LEF1,191,597,601,624
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_LHX2,Unknown,LHX2,597,191,191,196
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_LMO2,Unknown,LMO2,150,468,484,484
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_LMX1B,Unknown,LMX1B,89,276,332,315
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_LYL1,Unknown,LYL1,173,5,3,5
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MAF,Basic leucine zipper factors (bZIP),MAF,143,209,266,202
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MAFA,Unknown,MAFA,430,529,542,530
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MAFB,Basic leucine zipper factors (bZIP),MAFB,559,203,255,551
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MAFK,Basic leucine zipper factors (bZIP),MAFK,66,579,585,583
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MAX,Basic helix-loop-helix factors (bHLH),MAX,417,37,22,29
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MAZ,C2H2 zinc finger factors,MAZ,60,285,99,179
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MBD1,Unknown,MBD1,438,612,620,565
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MECP2,Others,MECP2,571,635,635,630
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MED1,Unknown,MED1,400,231,279,262
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MEF2A,MADS box factors,MEF2A,505,89,183,82
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MEF2C,Unknown,MEF2C,22,92,192,147
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MEF2D,MADS box factors,MEF2D,569,555,563,553
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MESP2,Unknown,MESP2,435,288,342,326
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MITF,Basic helix-loop-helix factors (bHLH),MITF,171,37,25,30
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MLXIP,Basic helix-loop-helix factors (bHLH),MLXIP,233,122,204,159
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MNT,Unknown,MNT,140,166,166,304
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MTA1,Unknown,MTA1,58,89,183,118
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MTA2,Others,MTA2,452,295,323,328
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MTF1,C2H2 zinc finger factors,MTF1,1,1,116,1
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MXD1,Unknown,MXD1,87,216,283,269
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MYB,Tryptophan cluster factors,MYB,76,19,14,17
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MYBL2,Tryptophan cluster factors,MYBL2,30,7,141,10
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_MYCN,Basic helix-loop-helix factors (bHLH),MYCN,156,356,92,216
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NANOG,Homeo domain factors,NANOG,530,647,647,647
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NCOA3,Basic helix-loop-helix factors (bHLH),NCOA3,615,121,58,82
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NCOR1,Tryptophan cluster factors,NCOR1,98,62,62,87
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NEUROD2,Unknown,NEUROD2,219,290,97,169
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFAT5,Rel homology region (RHR) factors,NFAT5,29,39,155,55
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFE2,Unknown,NFE2,3,2,2,2
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFIA,Unknown,NFIA,635,637,637,630
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFIC,Unknown,NFIC,205,514,112,335
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFIL3,Unknown,NFIL3,244,410,443,438
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFYA,Heteromeric CCAAT-binding factors,NFYA,59,48,17,27
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFYB,Heteromeric CCAAT-binding factors,NFYB,544,75,34,49
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NFYC,Unknown,NFYC,86,95,169,136
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NKX2-5,Unknown,NKX2-5,526,469,487,483
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NKX3-1,Unknown,NKX3-1,538,442,465,460
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NKX6-1,Unknown,NKX6-1,173,310,310,337
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NONO,NonO domain factors,NONO,50,82,167,110
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NPAS2,Unknown,NPAS2,231,215,280,256
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NPM1,Unknown,NPM1,195,237,237,270
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR1D1,Unknown,NR1D1,184,521,535,524
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR1H2,Unknown,NR1H2,466,531,551,478
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR1H3,Unknown,NR1H3,175,108,49,79
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR1I3,Unknown,NR1I3,153,444,468,455
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR2C1,Unknown,NR2C1,210,596,601,593
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR2C2,Nuclear receptors with C4 zinc fingers,NR2C2,548,3,1,3
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR2F1,Unknown,NR2F1,562,188,259,123
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR2F2,Nuclear receptors with C4 zinc fingers,NR2F2,27,87,40,65
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR2F6,Unknown,NR2F6,219,517,517,447
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR3C1,Nuclear receptors with C4 zinc fingers,NR3C1,581,644,136,639
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NR6A1,Unknown,NR6A1,208,488,512,503
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_NRF1,Basic leucine zipper factors (bZIP),NRF1,54,8,6,8
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ONECUT1,Unknown,ONECUT1,234,551,565,481
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_OTX2,Homeo domain factors,OTX2,170,300,90,182
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PARK7,Others,PARK7,148,92,186,129
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PAX2,Paired box factors,PAX2,196,632,634,627
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PAX7,Unknown,PAX7,141,544,559,559
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PAX9,Unknown,PAX9,354,335,377,363
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PBRM1,Unknown,PBRM1,341,236,280,264
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PBX2,Unknown,PBX2,236,197,197,128
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PEG3,Unknown,PEG3,268,478,478,500
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PHOX2A,Unknown,PHOX2A,247,508,529,522
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PHOX2B,Unknown,PHOX2B,362,615,619,612
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PLAGL1,Unknown,PLAGL1,267,366,401,385
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_POU2F2,Unknown,POU2F2,488,164,64,104
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_POU3F1,Unknown,POU3F1,272,229,229,263
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_POU4F1,Unknown,POU4F1,74,116,201,161
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_PPARA,Unknown,PPARA,36,35,138,51
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RARA,Nuclear receptors with C4 zinc fingers,RARA,617,631,631,629
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RARB,Unknown,RARB,131,318,356,337
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_REST,C2H2 zinc finger factors,REST,20,3,2,3
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RFX1,Unknown,RFX1,270,32,19,26
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RFX3,Unknown,RFX3,286,119,213,169
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RFX5,Fork head / winged helix factors,RFX5,280,103,189,71
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RFXAP,Unknown,RFXAP,274,349,395,381
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RORA,Unknown,RORA,510,369,411,394
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RUNX2,Runt domain factors,RUNX2,553,142,64,97
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_RXRA,Unknown,RXRA,169,25,25,21
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SALL4,C2H2 zinc finger factors,SALL4,288,638,638,623
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SATB1,Homeo domain factors,SATB1,598,234,288,266
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SF1,Nuclear receptors with C4 zinc fingers,SF1,314,97,186,127
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SIN3A,Unknown,SIN3A,278,246,290,277
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SIRT1,Unknown,SIRT1,606,500,518,513
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SKIL,Unknown,SKIL,294,521,546,529
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SMAD3,SMAD/NF-1 DNA-binding domain factors,SMAD3,538,616,616,618
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SMAD4,SMAD/NF-1 DNA-binding domain factors,SMAD4,602,639,639,631
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SMARCA1,Unknown,SMARCA1,95,10,140,14
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SMARCA4,Others,SMARCA4,273,347,380,378
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SMARCA5,Unknown,SMARCA5,294,339,382,375
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SNAI1,C2H2 zinc finger factors,SNAI1,462,278,278,302
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SON,Unknown,SON,287,495,512,512
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SOX11,High-mobility group (HMG) domain factors,SOX11,311,434,461,264
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SOX2,High-mobility group (HMG) domain factors,SOX2,50,434,434,618
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SP1,C2H2 zinc finger factors,SP1,48,104,104,72
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SP2,C2H2 zinc finger factors,SP2,572,100,43,76
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SP4,Unknown,SP4,483,593,593,469
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SPI1,Unknown,SPI1,165,1,1,1
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SREBF2,Unknown,SREBF2,1,1,1,1
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SRF,MADS box factors,SRF,4,2,1,1
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SRSF2,Unknown,SRSF2,35,56,149,77
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_SSRP1,High-mobility group (HMG) domain factors,SSRP1,114,231,231,254
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_STAT1,STAT domain factors,STAT1,622,209,71,125
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_STAT2,STAT domain factors,STAT2,103,26,18,20
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_STAT3,STAT domain factors,STAT3,132,377,101,235
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_STAT5B,STAT domain factors,STAT5B,81,87,87,106
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_STAT6,STAT domain factors,STAT6,502,167,61,108
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TADA2A,Unknown,TADA2A,509,416,438,444
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TAF1,Unknown,TAF1,453,404,404,414
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TBP,Unknown,TBP,514,467,92,213
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TBPL1,Unknown,TBPL1,120,243,280,274
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TBX1,Unknown,TBX1,261,403,425,419
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TCF3,Basic helix-loop-helix factors (bHLH),TCF3,578,646,646,644
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TCF4,Basic helix-loop-helix factors (bHLH),TCF4,584,519,531,375
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TEAD1,Unknown,TEAD1,622,210,210,130
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TEAD4,TEA domain factors,TEAD4,197,325,367,205
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TET1,CXXC zinc finger factors,TET1,167,547,557,547
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TFAM,Unknown,TFAM,3,1,112,1
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TFAP2A,Unknown,TFAP2A,13,29,18,22
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TFAP4,Basic helix-loop-helix factors (bHLH),TFAP4,68,47,22,38
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TFDP1,Fork head / winged helix factors,TFDP1,9,3,4,4
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TFEB,Unknown,TFEB,239,318,96,197
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TP73,Unknown,TP73,414,468,489,478
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TRERF1,Unknown,TRERF1,219,422,445,449
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TSC22D1,Unknown,TSC22D1,216,103,197,143
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TTF1,Unknown,TTF1,16,8,8,9
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TWIST1,Basic helix-loop-helix factors (bHLH),TWIST1,607,529,543,622
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_TWIST2,Basic helix-loop-helix factors (bHLH),TWIST2,621,309,309,339
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_USF1,Basic helix-loop-helix factors (bHLH),USF1,63,112,112,73
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_VSX2,Unknown,VSX2,627,279,330,307
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_WT1,C2H2 zinc finger factors,WT1,227,117,117,80
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_YBX3,Cold-shock domain factors,YBX3,568,359,383,382
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_YY1,C2H2 zinc finger factors,YY1,8,85,85,64
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZBTB17,Unknown,ZBTB17,152,622,622,619
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZBTB33,C2H2 zinc finger factors,ZBTB33,210,273,273,250
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZBTB7A,Unknown,ZBTB7A,526,270,316,193
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZBTB7B,Unknown,ZBTB7B,266,355,401,382
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZFPM1,Unknown,ZFPM1,178,585,589,589
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZFPM2,Unknown,ZFPM2,242,410,436,431
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZHX2,Homeo domain factors,ZHX2,209,528,541,542
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZIC2,C2H2 zinc finger factors,ZIC2,244,332,372,353
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF143,C2H2 zinc finger factors,ZNF143,555,148,148,104
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF148,C2H2 zinc finger factors,ZNF148,134,611,616,608
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF160,Unknown,ZNF160,249,391,420,417
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF219,Unknown,ZNF219,245,368,368,387
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF236,Unknown,ZNF236,546,467,475,471
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF263,C2H2 zinc finger factors,ZNF263,235,611,614,601
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF335,Unknown,ZNF335,299,353,381,384
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF362,Unknown,ZNF362,151,395,430,421
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF410,Unknown,ZNF410,176,174,174,209
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZNF699,Unknown,ZNF699,122,216,275,250
+Replogle K562 Primary 267,pre-registered external (P0-2),TF-Class,K562_normalized_z_ZXDC,Unknown,ZXDC,334,399,434,415
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ARID3A,ARID domain factors,ARID3A,400,595,602,608
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ATF4,Basic leucine zipper factors (bZIP),ATF4,590,53,168,138
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ATF5,Unknown,ATF5,103,121,179,165
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_BCLAF1,Others,BCLAF1,394,177,250,221
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_BRCA1,Others,BRCA1,525,385,400,408
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_BRD4,Others,BRD4,442,392,427,430
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CEBPG,Unknown,CEBPG,563,318,346,234
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CEBPZ,Others,CEBPZ,637,36,119,45
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CHD4,Unknown,CHD4,320,290,326,339
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CLOCK,Unknown,CLOCK,115,317,337,189
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CTBP2,Unknown,CTBP2,324,288,327,324
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CTCF,C2H2 zinc finger factors,CTCF,91,27,12,20
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_CXXC1,Unknown,CXXC1,194,365,365,389
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_DNMT1,Unknown,DNMT1,597,213,234,237
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_E4F1,Zinc-coordinating DNA-binding domains,E4F1,404,645,645,640
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ENO1,Unknown,ENO1,230,184,251,226
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ETV4,Tryptophan cluster factors,ETV4,640,103,44,71
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_EWSR1,Others,EWSR1,437,366,404,391
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_FOXL2,Unknown,FOXL2,109,153,237,193
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_FOXO1,Fork head / winged helix factors,FOXO1,422,484,85,238
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_GABPA,Tryptophan cluster factors,GABPA,111,163,50,94
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_GTF3A,Unknown,GTF3A,514,34,126,51
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_HCFC1,Unknown,HCFC1,263,333,333,368
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_HDAC3,Others,HDAC3,101,369,391,402
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_HDAC7,Unknown,HDAC7,301,262,285,292
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_HHEX,Unknown,HHEX,415,510,540,536
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_HINFP,C2H2 zinc finger factors,HINFP,368,610,611,557
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_HMGA1,A.T hook factors,HMGA1,476,11,122,15
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_KAT5,Unknown,KAT5,461,453,472,483
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_KAT7,Unknown,KAT7,400,527,545,539
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_KDM2A,Unknown,KDM2A,618,631,634,624
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_KDM5C,Unknown,KDM5C,494,381,408,412
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_KLF7,C2H2 zinc finger factors,KLF7,394,353,382,377
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_LMO2,Unknown,LMO2,414,485,501,504
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_MAX,Basic helix-loop-helix factors (bHLH),MAX,28,120,120,76
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_MED1,Unknown,MED1,88,194,238,237
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_MEF2A,MADS box factors,MEF2A,455,87,37,63
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_MYB,Tryptophan cluster factors,MYB,536,337,371,204
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_MYBL2,Tryptophan cluster factors,MYBL2,139,3,118,3
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_MYC,Basic helix-loop-helix factors (bHLH),MYC,1,1,1,1
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_NANOG,Homeo domain factors,NANOG,66,610,612,645
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_NFYB,Heteromeric CCAAT-binding factors,NFYB,389,12,2,11
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_NFYC,Unknown,NFYC,378,150,202,199
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_NPM1,Unknown,NPM1,246,482,492,490
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_NRF1,Basic leucine zipper factors (bZIP),NRF1,20,12,3,11
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_POU3F1,Unknown,POU3F1,235,119,169,154
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_PREB,Unknown,PREB,235,115,115,157
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SF1,Nuclear receptors with C4 zinc fingers,SF1,292,164,212,206
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SFPQ,Unknown,SFPQ,25,128,176,183
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SIN3A,Unknown,SIN3A,217,450,464,470
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SON,Unknown,SON,330,259,285,293
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SP1,C2H2 zinc finger factors,SP1,26,72,38,49
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SP2,C2H2 zinc finger factors,SP2,71,23,9,18
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SRF,MADS box factors,SRF,3,1,1,1
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SRSF2,Unknown,SRSF2,13,15,119,28
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_SSRP1,High-mobility group (HMG) domain factors,SSRP1,487,482,482,508
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_STAT5A,STAT domain factors,STAT5A,170,59,25,43
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_STAT5B,STAT domain factors,STAT5B,153,542,550,570
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TADA2A,Unknown,TADA2A,546,232,272,283
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TAF1,Unknown,TAF1,518,480,496,502
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TBP,Unknown,TBP,78,410,428,387
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TBPL1,Unknown,TBPL1,570,219,247,259
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TBX1,Unknown,TBX1,239,450,458,463
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TFAM,Unknown,TFAM,1,1,132,1
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TFAP4,Basic helix-loop-helix factors (bHLH),TFAP4,602,111,34,67
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_TFDP1,Fork head / winged helix factors,TFDP1,7,2,92,1
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_UBTF,High-mobility group (HMG) domain factors,UBTF,287,441,462,458
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_USF2,Basic helix-loop-helix factors (bHLH),USF2,514,317,343,236
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_VHL,Unknown,VHL,644,359,393,403
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_YBX1,Cold-shock domain factors,YBX1,493,31,124,52
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_YBX3,Cold-shock domain factors,YBX3,467,538,544,538
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_YY1,C2H2 zinc finger factors,YY1,38,11,2,9
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ZBTB17,Unknown,ZBTB17,43,168,235,221
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ZNF143,C2H2 zinc finger factors,ZNF143,52,135,53,88
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ZNF236,Unknown,ZNF236,137,625,626,614
+Replogle RPE1 76,pre-registered external (P0-2),TF-Class,RPE1_normalized_z_ZNF335,Unknown,ZNF335,274,555,562,563
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE205659_528NS_SREBF1_KD,GSE205659,SREBF1,631,41,26,29
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE205659_83NS_SREBF1_KD,GSE205659,SREBF1,63,1,1,1
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE337367_HUDEP2_EZH2_KD,GSE337367,EZH2,218,268,300,306
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE344516_NPC_YBX1_KD,GSE344516,YBX1,507,486,486,187
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE339268_HUCCT1_PBX1_KD,GSE339268,PBX1,569,465,479,483
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE339268_RBE_PBX1_KD,GSE339268,PBX1,512,522,530,530
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE300616_HemEC_EPAS1_KD,42497216,EPAS1,623,433,442,553
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE309470_MDAMB231_ENO1_KD,GSE309470,ENO1,159,400,416,414
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE270149_RPE_EWSR1_KO,42480518,EWSR1,465,303,335,354
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE312184_HepG2_EZH2_KD,41622630,EZH2,247,118,194,216
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE330070_HUVEC_SMAD4_KD,GSE330070,SMAD4,235,77,39,50
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE114742_MCF10AT_EP300_KD,GSE114742,EP300,173,92,149,152
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE319443_A375_SOX10_KO,GSE319443,SOX10,14,4,1,3
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE246363_MCF7_FOXA1_KO,GSE246363,FOXA1,40,92,92,116
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE316581_MCF7_HOXB2_KD,GSE316581,HOXB2,392,449,449,454
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE286216_HCT116_ARID1A_KO,40369167,ARID1A,59,152,202,222
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE295225_SCC25_RARG_KO,41274504,RARG,49,110,182,592
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE296237_LNCaP_HOXB13_KD,41277556,HOXB13,539,251,88,118
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE306030_HaCaT_BCL11A_KO,GSE306030,BCL11A,215,314,345,160
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE290232_TMD8_IRF4_KD,GSE290232,IRF4,638,13,13,9
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE299679_H146_KLF9_KD,GSE299679,KLF9,642,158,68,87
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE299180_hESC_CTCF_KD,GSE299180,CTCF,548,276,95,122
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE202868_MDAMB231_JARID2_KD,GSE202868,JARID2,598,431,431,424
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE275694_FT190_SMARCA4_KD,GSE275694,SMARCA4,303,427,427,431
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE264653_U2OS_MITF_KD,42268265,MITF,114,308,308,96
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE293321_hTSC_MYBL2_KD,40294258,MYBL2,308,20,127,145
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE293321_HTR8_MYBL2_KD,40294258,MYBL2,454,123,194,204
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE293430_OVCA433_NR1H3_KD,GSE293430,NR1H3,603,543,548,317
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE289670_Molm13_TAF1_Degron,40376796,TAF1,244,115,182,180
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE282831_JEG3_WWTR1_KO,40228123,WWTR1,377,395,416,411
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE279748_BeWo_GCM1_KD,39637677,GCM1,4,25,140,108
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE263639_BLaER_CTCF_Degron,40360814,CTCF,353,71,38,48
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE272398_KOPN8_ZNF217_KO,40093906,ZNF217,137,613,615,629
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE283179_2102Ep_TP53_KO,39760438,TP53,49,2,2,2
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE283179_H9_TP53_KO,39760438,TP53,53,1,1,1
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE283179_LUMC007_TP53_KO,39760438,TP53,25,1,1,1
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE283179_NCCIT_TP53_KO,39760438,TP53,71,9,8,8
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE267370_Jurkat_MYB_Degron,39488662,MYB,318,25,16,20
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE279807_Myla_FOXM1_KD,GSE279807,FOXM1,25,4,117,5
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE245497_H9_HSF1_KO,39437788,HSF1,632,617,619,518
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE212684_MGC803_ATF2_KD,GSE212686,ATF2,630,156,203,138
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE239779_HeLa_ZBTB17_KD,40243840,ZBTB17,81,53,151,137
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE256043_WCM154_EZH2_KO,39117665,EZH2,510,269,318,336
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE179314_HCT116_SP3_KD,GSE179314,SP3,14,21,21,28
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE175944_hiPSC_PITX2_KO,GSE175944,PITX2,575,101,175,213
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE260921_DU145_NFIB_KD,GSE260921,NFIB,118,469,480,466
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE252761_CVB_GTF2I_KO,38416640,GTF2I,453,475,487,485
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE229351_hESC_BACH1_KO,37995178,BACH1,87,115,115,61
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE227040_KGN_FOXL2_KD,37933840,FOXL2,339,617,619,637
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE231949_CD34_RUNX1_KO,37581927,RUNX1,14,11,11,11
+GEO bulk RNA-seq 51,pre-registered external (R2),study_id,GSE231960_RPMI8402_MYC_KO,37591943,MYC,26,1,1,1

@@ -1,0 +1,14 @@
+E4 agent variants on the v3 Dev 60. Exploratory.
+all scheduled calls finished
+V1 calls 120, V2 records 562, combined spend 9.9283 CNY.
+V1 may only emit symbols from the M10 top 25. Its rank puts those five first and keeps the other M10 order.
+V2 may emit any candidate after a tool call. Abstain or a parse failure leaves the M10 rank unchanged.
+Condition C cascade_check does not receive cell-line ChIP tracks.
+V1 A: parse 59/60, Top-1 5/60, Top-5 15/60, mean Δlog2 0.1545 (p=0.1838).
+V1 C: parse 57/60, Top-1 4/60, Top-5 13/60, mean Δlog2 0.0040 (p=0.9553).
+V2 A: parse 60/60, Top-1 3/60, Top-5 14/60, mean Δlog2 0.1547 (p=0.3818).
+V2 C: parse 60/60, Top-1 3/60, Top-5 7/60, mean Δlog2 -0.1710 (p=0.0176).
+Selection rule, fixed before the run: at most two variants, highest condition-C mean Δlog2, then lower cost. v3 propose-verify is a fixed additional entrant and is not dropped.
+Ranked condition C: V1 Δ=0.0040 cost=6.431, V2 Δ=-0.1710 cost=3.497
+Enter E5: V1, V2, v3_propose_verify
+Pool base rate: true TF already inside M10 top 25 in 27/60.

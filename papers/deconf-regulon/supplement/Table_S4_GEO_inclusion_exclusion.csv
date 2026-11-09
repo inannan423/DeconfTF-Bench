@@ -1,0 +1,322 @@
+table,stage,gse,contrast_id,target_tf,decision,reason,final_scored
+S4,title_level_119,GSE352117,,GRHL2,EXCLUDE,Stimulated/drug-treated series (erastin) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE205659,,SREBF1,INCLUDE,Clean human bulk RNA-seq KD perturbation of SREBF1 with matched control,0
+S4,title_level_119,GSE337367,,EZH2,INCLUDE,Clean human bulk RNA-seq KD perturbation of EZH2 with matched control,0
+S4,title_level_119,GSE348275,,ARID1A,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE347127,,EP300,INCLUDE,Clean human bulk RNA-seq KD perturbation of EP300 with matched control,0
+S4,title_level_119,GSE308223,,NR4A1,INCLUDE,Clean human bulk RNA-seq KD perturbation of NR4A1 with matched control,0
+S4,title_level_119,GSE278217,,SATB2,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE313412,,ZNF217,INCLUDE,Clean human bulk RNA-seq KD perturbation of ZNF217 with matched control,0
+S4,title_level_119,GSE336656,,CREBBP,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE344516,,YBX1,INCLUDE,Clean human bulk RNA-seq KD perturbation of YBX1 with matched control,0
+S4,title_level_119,GSE305532,,TEAD4,INCLUDE_BASELINE_ONLY,Contains TNF-alpha arm; restrict strictly to untreated/vehicle/DMSO baseline contrast (TF perturbation vs control),0
+S4,title_level_119,GSE339268,,PBX1,INCLUDE,Clean human bulk RNA-seq KD perturbation of PBX1 with matched control,0
+S4,title_level_119,GSE300616,,EPAS1,INCLUDE,Clean human bulk RNA-seq KD perturbation of EPAS1 with matched control,0
+S4,title_level_119,GSE300338,,BRD4,EXCLUDE,Stimulated/drug-treated series (JQ1) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE336801,,RB1,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE311211,,KDM5A,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE307843,,RB1,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE307842,,RB1,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE309470,,ENO1,INCLUDE,Clean human bulk RNA-seq KD perturbation of ENO1 with matched control,0
+S4,title_level_119,GSE270149,,EWSR1,INCLUDE,Clean human bulk RNA-seq KO perturbation of EWSR1 with matched control,0
+S4,title_level_119,GSE315634,,KDM5C,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE333674,,TCF7,INCLUDE_BASELINE_ONLY,Contains MAPK or/and Wnt arm; restrict strictly to untreated/vehicle/DMSO baseline contrast (TF perturbation vs control),0
+S4,title_level_119,GSE315912,,MYCN,INCLUDE,Clean human bulk RNA-seq KD perturbation of MYCN with matched control,0
+S4,title_level_119,GSE305691,,PAX8,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE316716,,FLI1,INCLUDE,Clean human bulk RNA-seq KD perturbation of FLI1 with matched control,0
+S4,title_level_119,GSE312184,,EZH2,INCLUDE,Clean human bulk RNA-seq KD perturbation of EZH2 with matched control,0
+S4,title_level_119,GSE330070,,SMAD4,INCLUDE,Clean human bulk RNA-seq KD perturbation of SMAD4 with matched control,0
+S4,title_level_119,GSE312967,,SOX10,INCLUDE,Clean human bulk RNA-seq KD perturbation of SOX10 with matched control,0
+S4,title_level_119,GSE114742,,EP300,INCLUDE,Clean human bulk RNA-seq KD perturbation of EP300 with matched control,0
+S4,title_level_119,GSE324988,,BHLHE40,EXCLUDE,Stimulated/drug-treated series (TGF-B1) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE319443,,SOX10,INCLUDE,Clean human bulk RNA-seq KO perturbation of SOX10 with matched control,0
+S4,title_level_119,GSE310660,,PROX1,EXCLUDE,Non-human study in title (e.g. mouse model),0
+S4,title_level_119,GSE293379,,GATA6,INCLUDE,Clean human bulk RNA-seq KD perturbation of GATA6 with matched control,0
+S4,title_level_119,GSE323991,,PURA,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE246363,,FOXA1,INCLUDE_BASELINE_ONLY,Contains GDC-9545 arm; restrict strictly to untreated/vehicle/DMSO baseline contrast (TF perturbation vs control),0
+S4,title_level_119,GSE289910,,AHR,EXCLUDE,Stimulated/drug-treated series (Enzalutamide) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE319750,,ARID1A,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE316581,,HOXB2,INCLUDE,Clean human bulk RNA-seq KD perturbation of HOXB2 with matched control,0
+S4,title_level_119,GSE281679,,ENO1,EXCLUDE,Stimulated/drug-treated series (LPS) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE286216,,ARID1A,INCLUDE,Clean human bulk RNA-seq KD perturbation of ARID1A with matched control,0
+S4,title_level_119,GSE272246,,STAT5A,INCLUDE,Clean human bulk RNA-seq KO perturbation of STAT5A with matched control,0
+S4,title_level_119,GSE295225,,RARG,INCLUDE_BASELINE_ONLY,Contains CD1530 arm; restrict strictly to untreated/vehicle/DMSO baseline contrast (TF perturbation vs control),0
+S4,title_level_119,GSE296237,,HOXB13,INCLUDE,Clean human bulk RNA-seq KD perturbation of HOXB13 with matched control,0
+S4,title_level_119,GSE265824,,GATA2,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE309028,,TP53,INCLUDE,Clean human bulk RNA-seq KD perturbation of TP53 with matched control,0
+S4,title_level_119,GSE287704,,ATF3,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE306030,,BCL11A,INCLUDE_BASELINE_ONLY,Contains UVB-induced arm; restrict strictly to untreated/vehicle/DMSO baseline contrast (TF perturbation vs control),0
+S4,title_level_119,GSE293003,,FOXO1,EXCLUDE,Stimulated/drug-treated series (LPS) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE284531,,SOX9,INCLUDE,Clean human bulk RNA-seq KD perturbation of SOX9 with matched control,0
+S4,title_level_119,GSE290232,,IRF4,INCLUDE,Clean human bulk RNA-seq KD perturbation of IRF4 with matched control,0
+S4,title_level_119,GSE299679,,KLF9,INCLUDE,Clean human bulk RNA-seq KD perturbation of KLF9 with matched control,0
+S4,title_level_119,GSE284473,,E2F1,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE299180,,CTCF,INCLUDE,Clean human bulk RNA-seq KD perturbation of CTCF with matched control,0
+S4,title_level_119,GSE294286,,IRF3,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE278409,,JUN,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE264062,,HOXB13,EXCLUDE,Non-human study in title (e.g. mouse model),0
+S4,title_level_119,GSE202868,,JARID2,INCLUDE,Clean human bulk RNA-seq KD perturbation of JARID2 with matched control,0
+S4,title_level_119,GSE275694,,SMARCA4,INCLUDE,Clean human bulk RNA-seq KD perturbation of SMARCA4 with matched control,0
+S4,title_level_119,GSE264653,,MITF,INCLUDE,Clean human bulk RNA-seq KD perturbation of MITF with matched control,0
+S4,title_level_119,GSE272563,,HLF,INCLUDE,Clean human bulk RNA-seq KO perturbation of HLF with matched control,0
+S4,title_level_119,GSE293321,,MYBL2,INCLUDE,Clean human bulk RNA-seq KD perturbation of MYBL2 with matched control,0
+S4,title_level_119,GSE293430,,NR1H3,INCLUDE,Clean human bulk RNA-seq KD perturbation of NR1H3 with matched control,0
+S4,title_level_119,GSE253269,,ELK3,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE289670,,TAF1,INCLUDE,Clean human bulk RNA-seq KD perturbation of TAF1 with matched control,0
+S4,title_level_119,GSE282831,,WWTR1,INCLUDE,Clean human bulk RNA-seq KO perturbation of WWTR1 with matched control,0
+S4,title_level_119,GSE279748,,GCM1,INCLUDE,Clean human bulk RNA-seq KD perturbation of GCM1 with matched control,0
+S4,title_level_119,GSE264610,,GATA2,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE263639,,CTCF,INCLUDE,Clean human bulk RNA-seq KD perturbation of CTCF with matched control,0
+S4,title_level_119,GSE272398,,ZNF217,INCLUDE,Clean human bulk RNA-seq KO perturbation of ZNF217 with matched control,0
+S4,title_level_119,GSE282573,,NRF1,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE277050,,ARID1A,INCLUDE,Clean human bulk RNA-seq KD perturbation of ARID1A with matched control,0
+S4,title_level_119,GSE228573,,HDAC9,INCLUDE,Clean human bulk RNA-seq KD perturbation of HDAC9 with matched control,0
+S4,title_level_119,GSE169614,,DNMT1,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE283179,,TP53,INCLUDE,Clean human bulk RNA-seq KO perturbation of TP53 with matched control,0
+S4,title_level_119,GSE267372,,MYB,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE267370,,MYB,INCLUDE,Clean human bulk RNA-seq KD perturbation of MYB with matched control,0
+S4,title_level_119,GSE279807,,FOXM1,INCLUDE,Clean human bulk RNA-seq KD perturbation of FOXM1 with matched control,0
+S4,title_level_119,GSE265762,,BRD4,EXCLUDE,Stimulated/drug-treated series (JQ1) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE276595,,GCM1,EXCLUDE,Stimulated/drug-treated series (Hypoxia) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE276746,,SMARCA4,INCLUDE,Clean human bulk RNA-seq KD perturbation of SMARCA4 with matched control,0
+S4,title_level_119,GSE249064,,SMARCA4,INCLUDE,Clean human bulk RNA-seq KD perturbation of SMARCA4 with matched control,0
+S4,title_level_119,GSE245497,,HSF1,INCLUDE,Clean human bulk RNA-seq KO perturbation of HSF1 with matched control,0
+S4,title_level_119,GSE212686,,ATF2,INCLUDE,Clean human bulk RNA-seq KD perturbation of ATF2 with matched control,0
+S4,title_level_119,GSE239779,,ZBTB17,INCLUDE,Clean human bulk RNA-seq KD perturbation of ZBTB17 with matched control,0
+S4,title_level_119,GSE269126,,IRF7,EXCLUDE,Stimulated/drug-treated series (arsenic) without explicit untreated/vehicle baseline contrast,0
+S4,title_level_119,GSE256043,,EZH2,INCLUDE,Clean human bulk RNA-seq KO perturbation of EZH2 with matched control,0
+S4,title_level_119,GSE268798,,IRF2,INCLUDE,Clean human bulk RNA-seq KD perturbation of IRF2 with matched control,0
+S4,title_level_119,GSE237025,,VDR,INCLUDE,Clean human bulk RNA-seq KD perturbation of VDR with matched control,0
+S4,title_level_119,GSE179314,,SP3,INCLUDE,Clean human bulk RNA-seq KD perturbation of SP3 with matched control,0
+S4,title_level_119,GSE233861,,VDR,INCLUDE,Clean human bulk RNA-seq KD perturbation of VDR with matched control,0
+S4,title_level_119,GSE175944,,PITX2,INCLUDE,Clean human bulk RNA-seq KO perturbation of PITX2 with matched control,0
+S4,title_level_119,GSE232147,,RUNX1,INCLUDE,Clean human bulk RNA-seq KD perturbation of RUNX1 with matched control,0
+S4,title_level_119,GSE264079,,EZH2,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE240075,,MYC,INCLUDE_BASELINE_ONLY,Contains LPS arm; restrict strictly to untreated/vehicle/DMSO baseline contrast (TF perturbation vs control),0
+S4,title_level_119,GSE260921,,NFIB,INCLUDE,Clean human bulk RNA-seq KD perturbation of NFIB with matched control,0
+S4,title_level_119,GSE259401,,EPAS1,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE224131,,MAFB,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE252761,,GTF2I,INCLUDE,Clean human bulk RNA-seq KO perturbation of GTF2I with matched control,0
+S4,title_level_119,GSE197831,,TFAM,EXCLUDE,Supplementary files (BW) indicate epigenomic track rather than RNA-seq expression table,0
+S4,title_level_119,GSE197597,,TFAM,INCLUDE,Clean human bulk RNA-seq KD perturbation of TFAM with matched control,0
+S4,title_level_119,GSE237216,,STAT1,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE181208,,TP73,INCLUDE,Clean human bulk RNA-seq KD perturbation of TP73 with matched control,0
+S4,title_level_119,GSE229351,,BACH1,INCLUDE,Clean human bulk RNA-seq KD perturbation of BACH1 with matched control,0
+S4,title_level_119,GSE227040,,FOXL2,INCLUDE,Clean human bulk RNA-seq KD perturbation of FOXL2 with matched control,0
+S4,title_level_119,GSE220780,,RREB1,INCLUDE,Clean human bulk RNA-seq KD perturbation of RREB1 with matched control,0
+S4,title_level_119,GSE217881,,SMARCA5,EXCLUDE,Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,title_level_119,GSE229718,,YY1,INCLUDE,Clean human bulk RNA-seq KD perturbation of YY1 with matched control,0
+S4,title_level_119,GSE209601,,MEF2A,INCLUDE,Clean human bulk RNA-seq KD perturbation of MEF2A with matched control,0
+S4,title_level_119,GSE234179,,ARID1A,EXCLUDE,Supplementary files (BW) indicate epigenomic track rather than RNA-seq expression table,0
+S4,title_level_119,GSE234177,,ARID1A,INCLUDE,Clean human bulk RNA-seq KO perturbation of ARID1A with matched control,0
+S4,title_level_119,GSE241108,,FOXA1,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE231951,,RUNX1,INCLUDE,Clean human bulk RNA-seq KD perturbation of RUNX1 with matched control,0
+S4,title_level_119,GSE231949,,RUNX1,INCLUDE,Clean human bulk RNA-seq KO perturbation of RUNX1 with matched control,0
+S4,title_level_119,GSE231962,,MYC,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE231960,,MYC,INCLUDE,Clean human bulk RNA-seq KO perturbation of MYC with matched control,0
+S4,title_level_119,GSE231959,,MYCN,INCLUDE,Clean human bulk RNA-seq KO perturbation of MYCN with matched control,0
+S4,title_level_119,GSE155220,,TFEB,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,title_level_119,GSE232212,,FOXC2,INCLUDE,Clean human bulk RNA-seq KD perturbation of FOXC2 with matched control,0
+S4,title_level_119,GSE232739,,FLI1,EXCLUDE,"Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE205659,GSE205659_528NS_SREBF1_KD,SREBF1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE205659,GSE205659_83NS_SREBF1_KD,SREBF1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE337367,GSE337367_HUDEP2_EZH2_KD,EZH2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE347127,GSE347127_LY3_EP300_KD,EP300,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE308223,GSE308223_QGP1_NR4A1_KD,NR4A1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE313412,GSE313412_MHCC97H_ZNF217_KD,ZNF217,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE344516,GSE344516_NPC_YBX1_KD,YBX1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE339268,GSE339268_HUCCT1_PBX1_KD,PBX1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE339268,GSE339268_RBE_PBX1_KD,PBX1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE300616,GSE300616_HemEC_EPAS1_KD,EPAS1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE309470,GSE309470_MDAMB231_ENO1_KD,ENO1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE270149,GSE270149_RPE_EWSR1_KO,EWSR1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE315912,GSE315912_Y79_MYCN_KD,MYCN,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE316716,GSE316716_U87MG_FLI1_KD,FLI1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE316716,GSE316716_U251MG_FLI1_KD,FLI1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE312184,GSE312184_HepG2_EZH2_KD,EZH2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE330070,GSE330070_HUVEC_SMAD4_KD,SMAD4,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE114742,GSE114742_MCF10AT_EP300_KD,EP300,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE319443,GSE319443_A375_SOX10_KO,SOX10,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE246363,GSE246363_MCF7_FOXA1_KO,FOXA1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE316581,GSE316581_MCF7_HOXB2_KD,HOXB2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE286216,GSE286216_HCT116_ARID1A_KO,ARID1A,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE295225,GSE295225_SCC25_RARG_KO,RARG,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE296237,GSE296237_LNCaP_HOXB13_KD,HOXB13,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE306030,GSE306030_HaCaT_BCL11A_KO,BCL11A,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE284531,GSE284531_IPFbasal_SOX9_KD,SOX9,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE290232,GSE290232_TMD8_IRF4_KD,IRF4,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE299679,GSE299679_H1688_KLF9_KD,KLF9,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE299679,GSE299679_H146_KLF9_KD,KLF9,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE299180,GSE299180_hESC_CTCF_KD,CTCF,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE202868,GSE202868_MDAMB231_JARID2_KD,JARID2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE275694,GSE275694_FT190_SMARCA4_KD,SMARCA4,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE264653,GSE264653_U2OS_MITF_KD,MITF,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE272563,GSE272563_786O_HLF_KO,HLF,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE293321,GSE293321_hTSC_MYBL2_KD,MYBL2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE293321,GSE293321_HTR8_MYBL2_KD,MYBL2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE293430,GSE293430_OVCA433_NR1H3_KD,NR1H3,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE289670,GSE289670_Molm13_TAF1_Degron,TAF1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE282831,GSE282831_JEG3_WWTR1_KO,WWTR1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE279748,GSE279748_BeWo_GCM1_KD,GCM1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE263639,GSE263639_BLaER_CTCF_Degron,CTCF,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE272398,GSE272398_KOPN8_ZNF217_KO,ZNF217,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE277050,GSE277050_SKNDZ_ARID1A_KD,ARID1A,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE228573,GSE228573_HASMC_HDAC9_KD,HDAC9,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE283179,GSE283179_2102Ep_TP53_KO,TP53,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE283179,GSE283179_H9_TP53_KO,TP53,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE283179,GSE283179_LUMC007_TP53_KO,TP53,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE283179,GSE283179_NCCIT_TP53_KO,TP53,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE267370,GSE267370_Jurkat_MYB_Degron,MYB,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE279807,GSE279807_Myla_FOXM1_KD,FOXM1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE245497,GSE245497_H9_HSF1_KO,HSF1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE212684,GSE212684_MGC803_ATF2_KD,ATF2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE239779,GSE239779_HeLa_ZBTB17_KD,ZBTB17,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE256043,GSE256043_WCM154_EZH2_KO,EZH2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE268798,GSE268798_K562_IRF2_KD,IRF2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE237025,GSE237025_K562_VDR_KD,VDR,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE179314,GSE179314_HCT116_SP3_KD,SP3,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE233861,GSE233861_K562_VDR_KD,VDR,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE175944,GSE175944_hiPSC_PITX2_KO,PITX2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE240075,GSE240075_MDM_MYC_KD,MYC,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE260921,GSE260921_DU145_NFIB_KD,NFIB,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE252761,GSE252761_CVB_GTF2I_KO,GTF2I,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE197597,GSE197597_SNU368_TFAM_KD,TFAM,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE181208,GSE181208_TLOm1_TP73_KD,TP73,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE229351,GSE229351_hESC_BACH1_KO,BACH1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE227040,GSE227040_KGN_FOXL2_KD,FOXL2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE220780,GSE220780_A673_RREB1_KD,RREB1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE229718,GSE229718_KYSE30_YY1_KD,YY1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE209601,GSE209601_AC16_MEF2A_KD,MEF2A,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE234177,GSE234177_MDAMB231_ARID1A_KO,ARID1A,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE231949,GSE231949_CD34_RUNX1_KO,RUNX1,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE231960,GSE231960_RPMI8402_MYC_KO,MYC,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE231959,GSE231959_RPMI8402_MYCN_KO,MYCN,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE232212,GSE232212_MDAMB231_FOXC2_KD,FOXC2,INCLUDE_CONTRAST,,1
+S4,gsm_contrast_74,GSE305532,,TEAD4,EXCLUDE,AMBIGUOUS_OR_CONFOUNDED: siTEAD4 GSMs are all 4mix-stimulated and siCtrl GSMs are all vehicle; no unstimulated perturbation-vs-control pair.,0
+S4,gsm_contrast_74,GSE333674,,TCF7,EXCLUDE,AMBIGUOUS_OR_CONFOUNDED: TCF7 KO GSMs exist only under CHIR+4OHT; untreated GSMs are Safe-cutter controls only.,0
+S4,gsm_contrast_74,GSE312967,,SOX10,EXCLUDE,"EXCLUDE_NOT_RNASEQ: SuperSeries of GSE312966; all 16 GSMs are miRNA-Seq, not bulk RNA-seq.",0
+S4,gsm_contrast_74,GSE293379,,GATA6,EXCLUDE,"AMBIGUOUS_OR_CONFOUNDED: profiled cells are HPASMCs treated with conditioned medium from siGATA6 HPAECs (indirect/paracrine), not a GATA6 perturbation in the sequenced samples.",0
+S4,gsm_contrast_74,GSE272246,,STAT5A,EXCLUDE,"AMBIGUOUS_OR_CONFOUNDED: STAT5A-KO and NC GSMs do not share matched cell-type/age groups (skin-80, skin-50, fibroblast-8, UCMSC, H9 mixed).",0
+S4,gsm_contrast_74,GSE309028,,TP53,EXCLUDE,"AMBIGUOUS_OR_CONFOUNDED: RNA-seq is of human T cells after co-culture with TP53-WT/KD AML, not of the perturbed AML cells.",0
+S4,gsm_contrast_74,GSE276746,,SMARCA4,EXCLUDE,EXCLUDE_NO_UNSTIMULATED_ARM: siSMARCA4 GSMs are all 4OHT-induced; DMSO arms are siNT only. Duplicate study with GSE249064.,0
+S4,gsm_contrast_74,GSE249064,,SMARCA4,EXCLUDE,EXCLUDE_NO_UNSTIMULATED_ARM: same IMR90 ER:RAS 4OHT + siSMARCA4 design as GSE276746; no DMSO + siSMARCA4 arm. Duplicate of GSE276746.,0
+S4,gsm_contrast_74,GSE212686,,ATF2,EXCLUDE,EXCLUDE_SUPERSERIES: SuperSeries of GSE212684 (RNA-seq) and GSE212685 (ChIP-seq); RNA-seq contrast taken from SubSeries GSE212684.,0
+S4,gsm_contrast_74,GSE231951,,RUNX1,EXCLUDE,EXCLUDE_SUPERSERIES: SuperSeries of GSE231949 (RNA-seq) and GSE231950 (ATAC-seq); RNA-seq contrast taken from SubSeries GSE231949.,0
+S4,gsm_contrast_74,GSE232147,,RUNX1,EXCLUDE,"AMBIGUOUS_OR_CONFOUNDED: overall design describes TALEN reporter knock-in into a non-coding region of RUNX1 exon 3, not a documented loss-of-function KO.",0
+S4,gsm_contrast_74,GSE352117,,GRHL2,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (erastin) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE348275,,ARID1A,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE278217,,SATB2,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE336656,,CREBBP,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE300338,,BRD4,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (JQ1) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE336801,,RB1,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE311211,,KDM5A,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE307843,,RB1,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE307842,,RB1,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE315634,,KDM5C,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE305691,,PAX8,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE324988,,BHLHE40,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (TGF-B1) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE310660,,PROX1,EXCLUDE,TITLE_LEVEL: Non-human study in title (e.g. mouse model),0
+S4,gsm_contrast_74,GSE323991,,PURA,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE289910,,AHR,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (Enzalutamide) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE319750,,ARID1A,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE281679,,ENO1,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (LPS) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE265824,,GATA2,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE287704,,ATF3,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE293003,,FOXO1,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (LPS) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE284473,,E2F1,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE294286,,IRF3,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE278409,,JUN,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE264062,,HOXB13,EXCLUDE,TITLE_LEVEL: Non-human study in title (e.g. mouse model),0
+S4,gsm_contrast_74,GSE253269,,ELK3,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE264610,,GATA2,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE282573,,NRF1,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE169614,,DNMT1,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE267372,,MYB,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE265762,,BRD4,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (JQ1) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE276595,,GCM1,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (Hypoxia) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE269126,,IRF7,EXCLUDE,TITLE_LEVEL: Stimulated/drug-treated series (arsenic) without explicit untreated/vehicle baseline contrast,0
+S4,gsm_contrast_74,GSE264079,,EZH2,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE259401,,EPAS1,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE224131,,MAFB,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE197831,,TFAM,EXCLUDE,TITLE_LEVEL: Supplementary files (BW) indicate epigenomic track rather than RNA-seq expression table,0
+S4,gsm_contrast_74,GSE237216,,STAT1,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE217881,,SMARCA5,EXCLUDE,TITLE_LEVEL: Patient/syndrome or germline deficiency / clonal tracing model rather than acute controlled perturbation,0
+S4,gsm_contrast_74,GSE234179,,ARID1A,EXCLUDE,TITLE_LEVEL: Supplementary files (BW) indicate epigenomic track rather than RNA-seq expression table,0
+S4,gsm_contrast_74,GSE241108,,FOXA1,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE231962,,MYC,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE155220,,TFEB,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,gsm_contrast_74,GSE232739,,FLI1,EXCLUDE,"TITLE_LEVEL: Combinatorial / dual perturbation, fusion oncogene, viral infection, or co-treatment in title",0
+S4,qc_74,GSE205659,GSE205659_528NS_SREBF1_KD,SREBF1,PASS,PASS,1
+S4,qc_74,GSE205659,GSE205659_83NS_SREBF1_KD,SREBF1,PASS,PASS,1
+S4,qc_74,GSE337367,GSE337367_HUDEP2_EZH2_KD,EZH2,PASS,PASS,1
+S4,qc_74,GSE347127,GSE347127_LY3_EP300_KD,EP300,QC_FAIL_KD_TARGET_LFC_-0.1196,QC_FAIL_KD_TARGET_LFC_-0.1196,0
+S4,qc_74,GSE308223,GSE308223_QGP1_NR4A1_KD,NR4A1,"QC_FAIL_SAMPLE_MAP missing=GSM9240562,GSM9240563,GSM9240564","QC_FAIL_SAMPLE_MAP missing=GSM9240562,GSM9240563,GSM9240564",0
+S4,qc_74,GSE313412,GSE313412_MHCC97H_ZNF217_KD,ZNF217,"QC_FAIL_SAMPLE_MAP missing=GSM9367659,GSM9367660,GSM9367656,GSM9367657,GSM9367658","QC_FAIL_SAMPLE_MAP missing=GSM9367659,GSM9367660,GSM9367656,GSM9367657,GSM9367658",0
+S4,qc_74,GSE344516,GSE344516_NPC_YBX1_KD,YBX1,PASS,PASS,1
+S4,qc_74,GSE339268,GSE339268_HUCCT1_PBX1_KD,PBX1,PASS,PASS,1
+S4,qc_74,GSE339268,GSE339268_RBE_PBX1_KD,PBX1,PASS,PASS,1
+S4,qc_74,GSE300616,GSE300616_HemEC_EPAS1_KD,EPAS1,PASS,PASS,1
+S4,qc_74,GSE309470,GSE309470_MDAMB231_ENO1_KD,ENO1,PASS,PASS,1
+S4,qc_74,GSE270149,GSE270149_RPE_EWSR1_KO,EWSR1,PASS,PASS,1
+S4,qc_74,GSE315912,GSE315912_Y79_MYCN_KD,MYCN,QC_FAIL_KD_TARGET_LFC_-0.2113,QC_FAIL_KD_TARGET_LFC_-0.2113,0
+S4,qc_74,GSE316716,GSE316716_U87MG_FLI1_KD,FLI1,no_frame,no_frame,0
+S4,qc_74,GSE316716,GSE316716_U251MG_FLI1_KD,FLI1,no_frame,no_frame,0
+S4,qc_74,GSE312184,GSE312184_HepG2_EZH2_KD,EZH2,PASS,PASS,1
+S4,qc_74,GSE330070,GSE330070_HUVEC_SMAD4_KD,SMAD4,PASS,PASS,1
+S4,qc_74,GSE114742,GSE114742_MCF10AT_EP300_KD,EP300,PASS,PASS,1
+S4,qc_74,GSE319443,GSE319443_A375_SOX10_KO,SOX10,PASS,PASS,1
+S4,qc_74,GSE246363,GSE246363_MCF7_FOXA1_KO,FOXA1,PASS,PASS,1
+S4,qc_74,GSE316581,GSE316581_MCF7_HOXB2_KD,HOXB2,PASS,PASS,1
+S4,qc_74,GSE286216,GSE286216_HCT116_ARID1A_KO,ARID1A,PASS,PASS,1
+S4,qc_74,GSE295225,GSE295225_SCC25_RARG_KO,RARG,PASS,PASS,1
+S4,qc_74,GSE296237,GSE296237_LNCaP_HOXB13_KD,HOXB13,PASS,PASS,1
+S4,qc_74,GSE306030,GSE306030_HaCaT_BCL11A_KO,BCL11A,PASS,PASS,1
+S4,qc_74,GSE284531,GSE284531_IPFbasal_SOX9_KD,SOX9,QC_FAIL_N_GENES_1761,QC_FAIL_N_GENES_1761,0
+S4,qc_74,GSE290232,GSE290232_TMD8_IRF4_KD,IRF4,PASS,PASS,1
+S4,qc_74,GSE299679,GSE299679_H1688_KLF9_KD,KLF9,QC_FAIL_KD_TARGET_LFC_0.9134,QC_FAIL_KD_TARGET_LFC_0.9134,0
+S4,qc_74,GSE299679,GSE299679_H146_KLF9_KD,KLF9,PASS,PASS,1
+S4,qc_74,GSE299180,GSE299180_hESC_CTCF_KD,CTCF,PASS,PASS,1
+S4,qc_74,GSE202868,GSE202868_MDAMB231_JARID2_KD,JARID2,PASS,PASS,1
+S4,qc_74,GSE275694,GSE275694_FT190_SMARCA4_KD,SMARCA4,PASS,PASS,1
+S4,qc_74,GSE264653,GSE264653_U2OS_MITF_KD,MITF,PASS,PASS,1
+S4,qc_74,GSE272563,GSE272563_786O_HLF_KO,HLF,parsed_but_log_scale_not_permitted,parsed_but_log_scale_not_permitted,0
+S4,qc_74,GSE293321,GSE293321_hTSC_MYBL2_KD,MYBL2,PASS,PASS,1
+S4,qc_74,GSE293321,GSE293321_HTR8_MYBL2_KD,MYBL2,PASS,PASS,1
+S4,qc_74,GSE293430,GSE293430_OVCA433_NR1H3_KD,NR1H3,PASS,PASS,1
+S4,qc_74,GSE289670,GSE289670_Molm13_TAF1_Degron,TAF1,PASS,PASS,1
+S4,qc_74,GSE282831,GSE282831_JEG3_WWTR1_KO,WWTR1,PASS,PASS,1
+S4,qc_74,GSE279748,GSE279748_BeWo_GCM1_KD,GCM1,PASS,PASS,1
+S4,qc_74,GSE263639,GSE263639_BLaER_CTCF_Degron,CTCF,PASS,PASS,1
+S4,qc_74,GSE272398,GSE272398_KOPN8_ZNF217_KO,ZNF217,PASS,PASS,1
+S4,qc_74,GSE277050,GSE277050_SKNDZ_ARID1A_KD,ARID1A,QC_FAIL_KD_TARGET_LFC_-0.0124,QC_FAIL_KD_TARGET_LFC_-0.0124,0
+S4,qc_74,GSE228573,GSE228573_HASMC_HDAC9_KD,HDAC9,QC_FAIL_KD_TARGET_LFC_-0.2009,QC_FAIL_KD_TARGET_LFC_-0.2009,0
+S4,qc_74,GSE283179,GSE283179_2102Ep_TP53_KO,TP53,PASS,PASS,1
+S4,qc_74,GSE283179,GSE283179_H9_TP53_KO,TP53,PASS,PASS,1
+S4,qc_74,GSE283179,GSE283179_LUMC007_TP53_KO,TP53,PASS,PASS,1
+S4,qc_74,GSE283179,GSE283179_NCCIT_TP53_KO,TP53,PASS,PASS,1
+S4,qc_74,GSE267370,GSE267370_Jurkat_MYB_Degron,MYB,PASS,PASS,1
+S4,qc_74,GSE279807,GSE279807_Myla_FOXM1_KD,FOXM1,PASS,PASS,1
+S4,qc_74,GSE245497,GSE245497_H9_HSF1_KO,HSF1,PASS,PASS,1
+S4,qc_74,GSE212684,GSE212684_MGC803_ATF2_KD,ATF2,PASS,PASS,1
+S4,qc_74,GSE239779,GSE239779_HeLa_ZBTB17_KD,ZBTB17,PASS,PASS,1
+S4,qc_74,GSE256043,GSE256043_WCM154_EZH2_KO,EZH2,PASS,PASS,1
+S4,qc_74,GSE268798,GSE268798_K562_IRF2_KD,IRF2,no permitted sample-level matrix (counts/TPM/FPKM),no permitted sample-level matrix (counts/TPM/FPKM),0
+S4,qc_74,GSE237025,GSE237025_K562_VDR_KD,VDR,"QC_FAIL_SAMPLE_MAP missing=GSM7593176,GSM7593177,GSM7593178","QC_FAIL_SAMPLE_MAP missing=GSM7593176,GSM7593177,GSM7593178",0
+S4,qc_74,GSE179314,GSE179314_HCT116_SP3_KD,SP3,PASS,PASS,1
+S4,qc_74,GSE233861,GSE233861_K562_VDR_KD,VDR,"QC_FAIL_SAMPLE_MAP missing=GSM7438211,GSM7438212,GSM7438213","QC_FAIL_SAMPLE_MAP missing=GSM7438211,GSM7438212,GSM7438213",0
+S4,qc_74,GSE175944,GSE175944_hiPSC_PITX2_KO,PITX2,PASS,PASS,1
+S4,qc_74,GSE240075,GSE240075_MDM_MYC_KD,MYC,QC_FAIL_KD_TARGET_LFC_-0.1879,QC_FAIL_KD_TARGET_LFC_-0.1879,0
+S4,qc_74,GSE260921,GSE260921_DU145_NFIB_KD,NFIB,PASS,PASS,1
+S4,qc_74,GSE252761,GSE252761_CVB_GTF2I_KO,GTF2I,PASS,PASS,1
+S4,qc_74,GSE197597,GSE197597_SNU368_TFAM_KD,TFAM,QC_FAIL_KD_TARGET_LFC_-0.3907,QC_FAIL_KD_TARGET_LFC_-0.3907,0
+S4,qc_74,GSE181208,GSE181208_TLOm1_TP73_KD,TP73,no permitted sample-level matrix (counts/TPM/FPKM),no permitted sample-level matrix (counts/TPM/FPKM),0
+S4,qc_74,GSE229351,GSE229351_hESC_BACH1_KO,BACH1,PASS,PASS,1
+S4,qc_74,GSE227040,GSE227040_KGN_FOXL2_KD,FOXL2,PASS,PASS,1
+S4,qc_74,GSE220780,GSE220780_A673_RREB1_KD,RREB1,no_frame,no_frame,0
+S4,qc_74,GSE229718,GSE229718_KYSE30_YY1_KD,YY1,"QC_FAIL_SAMPLE_MAP missing=GSM7173996,GSM7173997,GSM7173995","QC_FAIL_SAMPLE_MAP missing=GSM7173996,GSM7173997,GSM7173995",0
+S4,qc_74,GSE209601,GSE209601_AC16_MEF2A_KD,MEF2A,"QC_FAIL_SAMPLE_MAP missing=GSM6380397,GSM6380398,GSM6380399,GSM6380394,GSM6380395,GSM6380396","QC_FAIL_SAMPLE_MAP missing=GSM6380397,GSM6380398,GSM6380399,GSM6380394,GSM6380395,GSM6380396",0
+S4,qc_74,GSE234177,GSE234177_MDAMB231_ARID1A_KO,ARID1A,"QC_FAIL_SAMPLE_MAP missing=GSM7453478,GSM7453480,GSM7453475,GSM7453476","QC_FAIL_SAMPLE_MAP missing=GSM7453478,GSM7453480,GSM7453475,GSM7453476",0
+S4,qc_74,GSE231949,GSE231949_CD34_RUNX1_KO,RUNX1,PASS,PASS,1
+S4,qc_74,GSE231960,GSE231960_RPMI8402_MYC_KO,MYC,PASS,PASS,1
+S4,qc_74,GSE231959,GSE231959_RPMI8402_MYCN_KO,MYCN,"QC_FAIL_SAMPLE_MAP missing=GSM7306492,GSM7306494,GSM7306491,GSM7306493,GSM7306495","QC_FAIL_SAMPLE_MAP missing=GSM7306492,GSM7306494,GSM7306491,GSM7306493,GSM7306495",0
+S4,qc_74,GSE232212,GSE232212_MDAMB231_FOXC2_KD,FOXC2,QC_FAIL_KD_TARGET_LFC_0.0101,QC_FAIL_KD_TARGET_LFC_0.0101,0
